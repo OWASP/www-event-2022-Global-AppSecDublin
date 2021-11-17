@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec US 2021 Virtual
+title: Global AppSec Dublin 2022
 layout: event
 
 ---
