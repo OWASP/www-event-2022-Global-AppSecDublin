@@ -7,14 +7,14 @@
     #- title: Keynotes
       #url : /
     - title: Training
-      url : /trainings/
+      #url : /trainings/
     - title: Agenda
-      url : /schedule/
+      #url : /schedule/
    #- title: Call for Papers
       #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
   items:
-    - title: Sponsorship
+    #- title: Sponsorship
       url: /assets/images/Global_AppSec_US_2021_Sponsorship_.pdf
 - title: ABOUT
   url: /about/
@@ -22,10 +22,10 @@
     #- title: Sponsors & Exhibitors
       #url  : /sponsors/
     - title: Volunteer
-      url: /volunteer/
+      #url: /volunteer/
       #url  : /https://owasp.wufoo.com/forms/kcj5cel1lmygi4//
     - title: OWASP Merchandise
       url: https://owasp.org/store
-      #url  : /https://www.zazzle.com/store/owasp_foundation/
+      url  : /https://www.zazzle.com/store/owasp_foundation/
     #- title: Progam Team
       #url  : /
