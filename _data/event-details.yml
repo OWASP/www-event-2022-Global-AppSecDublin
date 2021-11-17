@@ -7,7 +7,7 @@ conference: June 9-10
 logo_url: https://owasp.org/
 venue: The Convention Centre Dublin
 #location: Virtual On-line Event
-background: virtualUSheader.png
+background: /assets/images/AppSec_Dublin_Banner1200x300.jpeg
 color: 797979
 analytics: 
 registration_open: false
