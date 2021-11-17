@@ -1,24 +1,24 @@
 - title: HOME
-  url: /
+  url: /https://dublin.globalappsec.org/
 - title: PROGRAM
-  items:
+  #items:
     #- title: Schedule
       #url : /schedule/
     #- title: Keynotes
       #url : /
-    - title: Training
+    #- title: Training
       #url : /trainings/
-    - title: Agenda
+    #- title: Agenda
       #url : /schedule/
    #- title: Call for Papers
       #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
-  items:
+  #items:
     #- title: Sponsorship
-      url: /assets/images/Global_AppSec_US_2021_Sponsorship_.pdf
+      #url: /assets/images/Global_AppSec_US_2021_Sponsorship_.pdf
 - title: ABOUT
-  url: /about/
-  items:
+  #url: /about/
+  #items:
     #- title: Sponsors & Exhibitors
       #url  : /sponsors/
     #- title: Volunteer
