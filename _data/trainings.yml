@@ -1,0 +1,807 @@
+- Type: Training
+  Trainers:
+    - Name: Ben Sadeghipour
+      Email: ben@sadeghipour.net
+      Image: /assets/images/trainers/BenSadeghipour.png
+      Twitter: NahamSec
+      Biography: >-
+          Ben is the Head of Hacker Education at HackerOne by day, and a hacker and content creator by night. He has helped identify over 700 security vulnerabilities across hundreds of web and mobile applications for 
+          companies such as Verizon Media, Red Bull, Apple, Airbnb, Snapchat, The US Department of Defense, Lyft, and more. One of the world’s top ethical hackers, he has invested time back into the security community 
+          by creating a community of 1000+ active hackers and hosting international conferences dedicated to hacker education and collaboration. He has also held free workshops and trainings to teach others about security 
+          and web application hacking.
+      TrainerId: trainer001
+      #-Name: Trainer Dos
+      #Email: tainer.dos@owasp.org
+      #Image: /assets/images/trainers/staff_harold.jpg
+      #Twitter: Trainer_Dos
+      #Biography: The second trainer of this course is a cybersecurity certified professional with more than 125 years of
+      #  experience. He works in the field of cybersecurity, cybersecurity research,
+      #  and threat intelligence.
+      #TrainerId: trainer_dos
+  Title: Introduction to Web Application Hacking & Bug Bounty (3-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_IWAHBB
+  Description: >-
+      This class is based on case studies of real life web application vulnerabilities. Participants are given a hands-on experience by learning each vulnerability category and completing a series of challenges at the end of each day. 
+      Participants will also get an in depth understanding of reconnaissance and automation process which will enable them to increase their attack surface in order to find more vulnerabilities. This course comes with challenges to learn 
+      the basics of each vulnerability as well as a mock infrastructure/organization to provide a real world scenario on how to approach a target and look for different vulnerabilities.<br>
+      
+      ### Outline: 
+
+      #### Day 1
+        - Topic 1
+          - Cross-Site Scripting (XSS)
+          - Reflected Cross-Site Scripting
+          - Stored Cross-Site Scripting
+          - Dom Cross-Site Scripting
+          - Angular Cross-Site Scripting
+          - Break
+        - Topic 2
+          - Cross Site Request forgery (CSRF)
+          - No CSRF token
+          - Reusable CSRF token
+          - Break
+        - Topic 3
+          - Insecure Direct Object References (IDOR)
+          - Incrementing IDs
+          - Weak encryption (B64)
+          - UUID from other vulnerabilities
+          - Break
+          - Lab
+      
+      #### Day 2
+        - Topic 1
+          - Local file inclusion
+          - Path Traversal
+          - Break
+        - Topic 2
+          - Server-Side Request Forgery (SSRF)
+          - Port Scan
+          - File Read
+          - Privilege Escalation
+          - Abusing redirection for exploitation
+          - Break
+        - Topic 3
+          - Arbitrary file upload
+          - Unvalidated PHP upload
+          - Path traversal to root
+          - RCE in filename
+          - XSS
+          - Break
+          - Lab
+      
+      #### Day 3    
+        - Topic 1
+          - SQL Injection
+          - SQL Injection with output
+          - Blind SQL Injection
+          - SQL Injection by turing the parameter into an array
+          - Break
+        - Topic 2
+          - Recon
+          - Recon process
+          - IP Ranges
+          - Subdomains discovery
+          - Directory/File discovery
+          - Default or weak credentials
+          - Component with known vulnerabilities
+          - Break
+          - Lab
+- Type: Training
+  Trainers:
+    - Name: Magno Logan
+      Email: magnologan@gmail.com
+      Image: /assets/images/trainers/MagnoLogan.jpeg
+      Twitter: magnologan
+      Biography: >- 
+                Magno Logan works as an Information Security Specialist for Trend Micro. He specializes in Cloud, Container, and Application Security Research, Threat Modelling, and Red Teaming. In addition, he has been tapped as a resource speaker for numerous security conferences around the globe. 
+                He is the JampaSec Security Conference and the OWASP Paraiba Chapter founder, and a member of the CNCF Security TAG team.
+      TrainerId: trainer002
+  Title: AppSec - Secure Coding and DevSecOps (ASCD) (3-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_ASCD
+  Description: >-
+      The AppSec: Secure Coding and DevSecOps (ASCD) course introduces fundamental concepts about the best practices of secure development and security automation within a development process. Every day, new flaws are discovered in several systems, be it a web or mobile application, a custom software, 
+      or a third-party component used by an application. For a long time and even today, it is possible to come across the web or mobile applications designed with weaknesses in their development process.In this training, we will cover basic secure development techniques. Students will understand application 
+      security vulnerabilities, including the OWASP Top 10 list, and learn strategies to defend against them using proactive, secure development controls. Several topics will be covered, such as HTTP Protocol, Application Security, Secure Development Cycle (SDL), OWASP and its various projects and tools, 
+      Application Security Testing such as DAST, SAST, and SCA, DevOps, and DevSecOps, among others.
+      
+      ### Outline:
+      
+      #### MODULE 101
+        1 Introduction
+
+        1.1 Basic Security Concepts
+        
+        1.2 HTTP protocol
+        - Requests and Responses
+        - Request and Response Headers
+        - HTTP Methods
+        - GET x POST
+        - Other HTTP Methods
+        - Response Status Codes
+        
+        1.3 Basic Application Concepts
+        - Cookies and Sessions
+        - Encoding, Hashing, and Encryption
+        - Symmetric and Asymmetric Cryptography
+        - Vulnerabilities
+
+      #### MODULE 201
+        2 Application Security
+        - What is application security?
+        - Challenges of Securing Applications
+        - Software Security Status
+        
+        2.1 Safe Development Cycle (SDL)
+        - SDL Definition
+        - SDL Timeline
+        - The 12 Practices of the SDL
+
+      #### MODULE 301
+        3 OWASP
+        3.1 What is OWASP?
+        - OWASP Foundation
+        - Chapters
+        - Projects
+        - Events
+        - How to participate?
+        
+        3.2 OWASP Top 10 2017
+        - Injection Failures
+        - Authentication Failures
+        - Sensitive Data Exposure
+        -  XML External Entities (XXE)
+        - Access Control Failures
+        - Security Configuration Failures
+        - Cross-Site Scripting (XSS)
+        - Unsafe Deserialization
+        - Use of Vulnerable Components
+        - Insufficient Logging and Monitoring
+        
+        3.3 OWASP Top 10 Proactive Controls 2018
+        - Define Security Requirements
+        - Security Frameworks and Libraries
+        - Secure Database Access
+        - Encode and Sanitize Data
+        - Validate All Entries
+        - Implement Digital Identity
+        - Apply Access Controls
+        - Protect Data Everywhere
+        - Implement Logging and Security Monitoring
+        - Handle All Errors and Exceptions
+        
+        3.4 OWASP API Security 2019
+        
+        3.5 Good Practices of Secure Development
+
+      #### MODULE 401
+        4 Application Security Testing
+        
+        4.1 Security Testing Methodologies
+        - DAST
+        - SAST
+        - SCA
+        - IAST
+        - RASP
+      
+      #### MODULE 501
+        5 DevOps & DevSecOps
+        - DevOps Principles
+        - DevSecOps Practices
+        
+        5.2 SAST in CI/CD
+        - HuskyCI
+        - HoruSec
+        - SonarQube
+        
+        5.3 DAST in CI/CD
+        - OWASP ZAP
+        
+        5.4 SCA on CI/CD
+        - Dependency-Check
+        - Snyk
+- Type: Training
+  Trainers:
+    - Name: Anirudh Anand
+      Email: anirudh@7asecurity.com
+      Image: /assets/images/trainers/AnirudhAnand.jpg
+      Twitter: a0xnirudh
+      Biography: >-
+          Anirudh Anand is a security engineer with a primary focus on Web and Mobile Application Security. He is currently working as a Lead Security Engineer at CRED and also Security Trainer at 7asecurity. He has been submitting bugs and contributing to security tools for over 8 years. 
+          In his free time, he participates in CTF competitions along with Team bi0s (#1 security team in India according to CTFtime). His bounties involve vulnerabilities in Google, Microsoft, LinkedIn, Zendesk, Sendgrid, Gitlab, Gratipay and Flipboard. Anirudh is an open source enthusiast 
+          and has contributed to several OWASP projects with notable contributions being in OWTF and Hackademic Challenges Project. He has presented/trained in a multitude of conferences including BlackHat US 2021, 44con London, Appsec NZ, Hackfest Canada, c0c0n, Nullcon, Offzone Moscow, HITB etc.
+      TrainerId: trainer003
+  Title: Hacking Modern Web apps - Master the Future of Attack Vectors (2-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_HMWAMTFOAV
+  Description: >-
+    This course is the culmination of years of experience gained via practical penetration testing of Modern Web applications as well as countless hours spent doing research. We have structured this course around the OWASP Security Testing Guide, it covers the OWASP Top Ten 
+    and specific attack vectors against Modern Web apps. This course provides participants with actionable skills that can be applied immediately from day 1. Please note our courses are 100% hands-on, we do not lecture students with boring bullet points and theories, instead 
+    we give you practical challenges and help you solve them, teaching you how to troubleshoot common issues and get the most out of this training. Training then continues after the course through our frequently updated training portal, for which you keep lifetime access, as 
+    well as unlimited email support. Light on the theory, heavy on the practice, each day starts from the basics but quickly complicates things to uncover fun attacks and edge cases that will surprise many. Each day covers static analysis, dynamic checks and finishes off with 
+    a nice CTF session to test the skills gained. *Day 1* Focused specifically on Hacking Modern Web Apps. We start with understanding Modern Web Apps and then deep dive into static and dynamic analysis of the applications at hand. This day is packed with hands-on exercises 
+    and CTF-style challenges. *Day 2* Dedicated to Advanced Modern Web App Attacks. We cover advanced attacks specifically targeting the Modern Web App and other platforms such as dumping memory, prototype pollution, deserialization attacks, OAuth, JWT flaws and more. The day 
+    is full of hands-on exercises and ends with CTF-style open challenges for additional practice.
+    
+    ### Outline:
+      
+    #### Course Objectives
+      - This course will take any student and make sure that
+        - The general level of proficiency is much higher than when they came
+        - The skills acquired can be immediately applied to modern Web app security assessments
+        - Skills can be sharpened via continued education in our training portal for free
+        - The student is equipped to defeat common Web app assessment challenges
+        - Everybody will learn a lot in this training.
+        - Advanced students will come out with enhanced skills and more efficient workflows
+        - The skills gained are highly practical and applicable to real-world assessments
+      - Attendees will be provided with
+        - Lifetime access to training portal, with all course materials
+        - Unlimited access to future updates and step-by-step video recordings
+        - Unlimited email support, if you need help while you practice at home later
+        - Interesting vulnerable apps​ to practice
+        - Digital copies of all training material
+        - Custom Build Lab VMs
+        - Purpose Build Vulnerable Test apps
+        - Source code for test apps
+        - A USB pendrive with materials
+      - Topics Included
+        - Review of Common Flaws in Source Code and at Runtime
+        - Web Interception of Network Communication and MitM-proxy techniques to find security flaws in these platforms
+        - Platform-specific attack vectors against Modern Web apps & mitigation
+        - CTF Challenges for Attendants to Test Their Skills
+      - Why should you take this course?
+        - This is more than a physical attendance course. You get the physical course but also lifetime access to a training portal with step-by-step video recordings, slides and lab exercises, including all future updates for free.
+        - Students can take the course at their own pace and training portal access ensures topics can be reviewed on an ad-hoc basis as required by the student online after the course.
+        - This training has been built from real issues seen in real applications, not fabricated vulnerabilities that you will never see in practice.
+        - The goal is to start from the basics and ensure that each student comes out of the training with a significantly higher level of proficiency in the artistry of pentesting.
+        - Students will be taught ways to identify the attack surface of Modern Web apps, exploit interesting vulnerabilities and means to fix them. The course walks students through the process of performing security audits of Modern apps. The training also covers effective identification, exploitation and mitigation of common vulnerability patterns against these platforms.
+        - As the course has been written and carefully created by professional penetration testers, after many years of experience, many practical tips will be shared to leverage automation and make penetration testing more efficient as soon as the student goes back to their workplace.
+    #### Top three takeaways
+      - Learn how to find Modern Web App vulnerabilities due to common misconfigurations and typical mistakes in framework setups
+      - Identify and exploit Modern Web App security vulnerabilities as efficiently as possible
+      - Improve your Modern Application Security Testing process leveraging a number of open source tools, as well as lots of tips and tricks shared by the instructors after years of Modern Web App penetration testing.
+    #### Upon Completion of this training, attendees will know
+      - Completing this training ensures attendees will be competent and able to
+        - Review and tamper network communications to exploit security vulnerabilities
+        - Bypass inadequate Modern Web App defences
+        - Analyze Modern Web Apps from a blackbox perspective
+        - Review Modern Web App source code to identify security flaws
+        - Perform Modern Web App security reviews
+    
+    #### Course Content (ToC)
+      - Day 1 Hacking Modern Web apps by Example
+        - Part 0 - Modern Web App Security Crash Course
+        - The state of Modern Web App Security
+        - Modern Web App architecture
+        - Introduction to Modern Web Apps
+        - Modern Web Apps the filesystem
+        - JavaScript prototypes
+        - Recommended lab setup tips
+      - Part 1 – Static Analysis, Modern Web App frameworks and Tools
+        - Modern Web App frameworks and their components
+        - Finding vulnerabilities in Modern Web App dependencies
+        - Common misconfigurations / flaws in Modern Web App applications and frameworks
+        - Tools and techniques to find security flaws in Modern Web Apps
+      - Part 2 - Finding and fixing Modern Web App vulnerabilities
+        - Identification of the attack surface of Modern Web Apps and general information gathering
+        - Identification of common vulnerability patterns in Modern Web Apps
+          - + CSRF
+          - + XSS
+          - + Access control flaws
+          - + NOSQL Injection, MongoDB attacks
+          - + SQL Injection
+          - + RCE
+          - + Crypto
+          - Monitoring data Logs, Insecure file storage, etc.
+      - Part 3 - Test Your Skills
+        - CTF time
+    #### Day 2: Advanced Modern Web App attacks
+      - Part 0 - Advanced Attacks on Modern Web Apps
+        - Leaking data from memory at runtime
+        - Prototype Pollution Attack
+        - From deserialization to RCE
+        - Server Side Template Injection
+        - OAuth attacks
+        - JWT attacks
+        - Scenarios with CSP
+        - Scenarios with Angular.js
+        - Race conditions
+        - Sandbox related security
+        - Real world case studies
+      - Part 1 - Advanced Modern Web Apps CTF
+        - Challenges to practice advanced attacks
+    #### Prerequisite of Training Class
+      - Hardware & Software -  Attendees should bring
+        - A laptop with the following specifications 
+          - Ability to connect to wireless and wired networks.
+          - Ability to read PDF files
+          - Administrative rights USB allowed, the ability to deactivate AV, firewall, install tools, etc
+          - Knowledge of the BIOS password, in case VT is disabled.
+          - Minimum 8GB of RAM (recommended 16GB+)
+          - 60GB+ of free disk space (to copy a lab VM and other goodies)
+          - VirtualBox 6.0 or greater, including the “VirtualBox Extension Pack” (NOTE - VMWare is also known to work         
+        - Student / Prerequisites for attendees 
+          - This course has no prerequisites as it is designed to accommodate students with different skills
+            - Advanced students will enjoy comprehensive labs, extra miles and CTF challenges
+            - Less experienced students complete what they can during the class, and can continue at their own pace from home using the training portal.
+          - This said, the more you learn about the following ahead of the course, the more you will get out of the course
+            - Linux command line basics
+            - Basic knowledge of Node.js or JavaScript is not required, but would help.
+    
+    #### Who should attend
+      - Any Web App developer, penetration tester or person interested in Modern Web apps, Node.js or JavaScript security will benefit from attending this training regardless of the initial skill level
+      - This course is for beginners, intermediate and advanced level students. While beginners are introduced to the nuances of Modern Web App security from scratch, intermediate and advanced level learners get to perfect both their knowledge and skills on the subject. Extra mile challenges are available in every module to help more advanced students polish their skills.
+      - The course is crafted in a way that regardless of your skill level you will significantly improve your Modern App security auditing skills
+      - If you are new and cannot complete the labs during the class, that is OK, as you keep training portal access, you will learn a lot in the class but can continue from home with the training portal.
+      - If you are more advanced you can try to complete the labs in full and then take the CTF challenges we have for each day, you will likely also attempt to complete some exercises from home later
+    
+    #### What to expect
+      - This is more than a physical attendance course. You get the physical course but also lifetime access to a training portal with step-by-step video recordings, slides and lab exercises, including all future updates for free.
+      - The course does not cover -  0-days, Windows/Linux/Mac OS exploits, x86 exploit writing, writing buffer or heap overflows.
+      - Do not expect the teachers to be talking through slides most of the time. This class is practical not theoretical, the teachers don’t bore you with slides all the time, instead you do exercises all the time and the teachers help you solve the challenges you face as you complete them.
+- Type: Training
+  Trainers:
+    - Name: Nithin Jois
+      Email: nithin.jois@we45.com
+      Image: /assets/images/trainers/NithinJois.jpeg
+      Twitter: bondijois
+      Biography: >-
+          Nithin Jois dons two hats - Apart from being one of the lead trainers at AppSecEngineer, he is also a Senior Solutions Architect at We45 where he has helped build multiple solutions ranging from Vulnerability management to scalable scanner orchestrating systems 
+          that leveraged container technology to  the hilt! Nithin also managed DevOps and deployments for some of these solutions, and for multiple clients, which gave him a lot of exposure to the cloud and helped understand multiple issues that are often faced in production 
+          and was involved in fixing some of those issues as well. Since 2018, Nithin has mostly been involved with research, development and building solutions around the training offerings and consults with organizations to help them implement DevSecOps successfully. Nithin 
+          has been a trainer and speaker at multiple industry-leading events including and not limited to OWASP Global AppSecUS, OWASP AppSecCali, CodeBlue Japan, SHACK aka. WhiskyCon and BlackHat-US/EU to name a few.
+      TrainerId: trainer004
+  Title: Kubernetes Security Masterclass (2-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_KSM
+  Description: >-
+      Kubernetes has emerged as the leading container orchestration and management platform for on-prem and cloud environments. However, Kubernetes is a multi-headed beast with several minute and nuanced security configuration parameters. In addition, attackers take 
+      advantage of these insecurely configured and designed Kubernetes deployments and perform deep-incursions into the organization’s assets. This training is a hard-core hands-on view of Kubernetes Security from an Attack and Defense perspective. The course takes the 
+      participants through a journey where they start with setting up a Kubernetes cluster (simulating an on-prem Kubernetes) deployment, attack the cluster and learn, through multiple deep-dive examples and cookbooks on how they can effectively secure Kubernetes clusters. 
+      The course is aimed at providing a view of attacking, auditing and defending Kubernetes clusters on-prem or on the cloud
+
+      ### Outline:
+       - Course Syllabus
+         - Day 1
+           - Introduction to Kubernetes
+             - Role of Kubernetes in Container Orchestration
+             - Kubernetes Architecture Deep-Dive
+             - Understanding multiple components in a Kubernetes Cluster
+             - Hands-On - Setting up a Kubernetes Cluster from scratch
+             - Hands-On - Deep-Dive into Objects on Kubernetes
+             - Exploring the Kubernetes Landscape
+             - Deploying Services and Applications on Kubernetes Clusters
+             - Hands-on - Deploying a multi-stack application on Kubernetes Cluster
+             - Hands-on - Leveraging Helm to simplify complex deployments
+           - Kubernetes - Red Team
+             - Kubernetes Threat Model and its counterpoint in Security Practices
+             - Understanding the Threats posed by-
+             - Vulnerable Cluster Configuration
+             - Vulnerable components in the cluster
+             - Malicious Application/Service deployed on the Cluster
+             - Kubernetes Trust boundaries & Attack Trees
+             - Case study of Real-World Cluster Attacks
+             - Analysis of Common Attack Vectors and patterns
+             - Attacking Kubernetes Clusters
+             - Privilege Escalation on Kubernetes Deployments
+             - Hands-on - Leveraging Cluster-Roles to Escalate Privileges on Kubernetes Clusters
+             - Hands-on - Attacking Helm Deployments to perform Privilege Escalation on Kubernetes Clusters
+             - Hands-on - Bypassing PodSecurityPolicies to gain persistence on Kubernetes Clusters
+             - Attacking Kubernetes Cluster components
+             - Hands-on - Attacking the cluster through exposed Kubelets
+             - Hands-on - Enumerating resources from vulnerable etcd deployments
+             - Hands-on - Spoofing DNS to perform a MITM attack on Kubernetes Clusters
+             - Hands-on - Analysing and Exploiting Kubernetes API server Vulnerability CVE-2018–1002105
+         - Day 2
+           - Kubernetes - Blue Team
+            - Kubernetes Authentication, Authorization and Admission Control
+            - Hands-on - Authentication
+            - Certificate Based Authentication Setup
+            - Webhook Authentication and Authorization with oAuth and OIDC
+            - Hands-on - Authorization
+            - Role Based Access Control (RBAC) Deployment for Kubernetes
+            - Impersonate RBAC contexts in Kubernetes to reduce attack surface
+            - Authorization Testing with Kubernetes can-i
+            - Hands-on -  (Security) Admission Controllers
+            - LimitRanger and ResourceQuota
+            - PodSecurityPolicy - with AppArmor and Seccomp
+            - DenyEscalatingExec
+            - Kubernetes Secrets
+            - Hands-on -
+            - Leveraging Hashicorp Vault for Kubernetes Secrets Management
+            - Leveraging Hashicorp Vault for Certificate Management and Authorization
+            - Leveraging Sealed Secrets for Kubernetes Cluster
+            - Leveraging Kamus for Kubernetes Cluster-level secrets
+            - Monitoring Kubernetes Clusters
+            - Hands-on -
+            - Kubernetes API Events Deep-dive and Logging Strategies
+            - OSQuery Monitoring for Nodes on Kubernetes Clusters
+            - Detecting Malicious events with EFK(ElasticSearch, Fluentd, Kibana) and Falco
+            - Open Policy Agent(OPA) on Kubernetes Clusters
+            - Understanding the need and use-cases of OPA
+            - Hands-on - Leveraging OPA to validate Ingress on Kubernetes
+            - Container Runtimes and Impact on Kubernetes Security
+            - Hands-on - Docker Container Security Engineering Practices
+            - Reducing Attack-Surface with DockerSlim
+            - Building minimal containers with Distroless containers
+            - Hands-on - Kata Containers and MicroVMs as Kube runtimes
+            - Hands-on - Container Vulnerability Assessment Techniques
+            - Scanning Containers using Clair, Anchore and Trivy
+            - Kubernetes Network Security
+            - Hands-on -
+            - Network Security Policy
+            - Service Mesh - Istio/Envoy
+            - Kubernetes Vulnerability Assessment and Audit
+            - Hands-on
+            - Auditing Kubernetes and fixing Deployment files using KubeAudit
+            - Hands-on - Scanning Spec files using KubeSec
+            - KubeHunter
+            - Kubernetes Continuous Integration and Continuous deployment
+            - Hands-on - Security pipeline using GitLab CI
+- Type: Training
+  Trainers:
+    - Name: Steven Wierckx
+      Email: steven.wierckx@toreon.com
+      Image: /assets/images/trainers/StevenWierckx.jpg
+      Twitter: ihackforfun
+      Biography: >-
+          Steven Wierckx is a software and security tester with 15 years of experience in programming, security testing, source code review, test automation, functional and technical analysis, development, and database design, Steven shares his passion for web application 
+          security through writing and training on testing software for security problems, secure coding, security awareness, security testing, and threat modeling. He is the project leader for the OWASP Threat Modeling Project and organizes the BruCON student CTF. Last 
+          year, he spoke at Hack in the Box Amsterdam, hosted a workshop at BruCON and delivered threat modeling trainings at OWASP AppSec USA and O’Reilly Security New York.
+      TrainerId: trainer005
+  Title: Advanced Whiteboard hacking – aka hands-on Threat Modeling (2-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_AWH
+  Description: >-
+    This is the latest edition of our threat modeling trainings released at Black Hat USA 2021, with a new threat modeling war game with red and blue threat modeling teams. Engaged in capture the flag style threat modeling challenges your team will battle for control over an offshore wind turbine park. Based on our experience in securing real-world Operational Technology (OT) infrastructure.
+    Also, in this edition we enhanced the sections on agile and DevOps threat modeling, threat modeling and compliance, added a section on "threat modeling at scale" and all participants get our Threat Modeling Playbook plus one-year access to our online threat modeling training subscription.
+    As highly skilled professionals, we know that there is a gap between academic knowledge of threat modeling and the real world. To minimize that gap, we developed practical Use Cases, based on real-life projects. Each use case includes a description of the environment, together with questions and templates to build a threat model. Using this methodology for the hands-on workshops we provide our students with a robust training experience and the templates to incorporate threat modeling best practices in their daily work.
+    Students will be challenged in groups of 3 to 4 people to perform the different stages of threat modeling on the following<br>
+    • Threat modeling an IoT gateway with a cloud-based update service<br>
+    • Get into the defender's head – modeling points of attack against a nuclear facility<br>
+    • Threat mitigations of OAuth scenarios for an HR application<br>
+    • Privacy analysis of a new face recognition system in an airport<br>
+    • Battle for control over "Zwarte Wind", an offshore wind turbine park<br>
+    After each hands-on workshop, the results are discussed, and students receive a documented solution. Based on our successful trainings in the last years and the great and positive feedback, we released this updated advanced threat modeling training at Black Hat USA 2021.
+    Some feedback from our Black Hat training attendees<br>
+    • “Sebastien delivered! One of the best workshop instructor's I've ever had.”<br>
+    • “Very nice training course, one of the best I ever attended.”<br>
+    • “I feel that this course is one of the most important courses to be taken by a security professional.”<br>
+    • “The group hands-on practical exercises truly helped.”<br>
+    • “hands-on labs are very well designed, and the solutions are also very smart!”<br>
+    
+    ### Outline:
+    
+      1 Threat modeling introduction
+      - Threat modeling in a secure development lifecycle
+      - What is threat modeling?
+      - Why perform threat modeling?
+      - Threat modeling stages
+      - Different threat modeling methodologies
+      - Document a threat model<br>
+      
+      2 Diagrams – what are you building?      
+      - Understanding context
+      - Doomsday scenarios
+      - Data flow diagrams
+      - Trust boundaries
+      - Sequence and state diagrams
+      - Advanced diagrams
+      - Hands-on diagramming web and mobile applications, sharing the same REST backend
+      
+      3 Identifying threats – what can go wrong?
+      - STRIDE introduction
+      - Spoofing threats
+      - Tampering threats
+      - Repudiation threats
+      - Information disclosure threats
+      - Denial of service threats
+      - Elevation of privilege threats
+      - Attack trees
+      - Attack libraries
+      - Hands-on STRIDE analysis of an Internet of Things (IoT) gateway and cloud update service
+      
+      4 Addressing each threat
+      - Mitigation patterns
+      - Authentication mitigating spoofing
+      - Integrity mitigating tampering
+      - Non-repudiation mitigating repudiation
+      - Confidentiality mitigating information disclosure
+      - Availability mitigating denial of service
+      - Authorization mitigating elevation of privilege
+      - Specialist mitigations
+      - Hands-on threat mitigations OAuth scenarios for web and mobile applications
+      
+      5 Threat modeling and compliance
+      - How to marry threat modeling with compliance
+      - Mapping threat modeling on compliance frameworks
+      - GDPR and Privacy by design
+      - Privacy threats
+      - LINDUNN and Mitigating privacy threats
+      - Hands-on privacy threat modeling of a face recognition system in an airport
+      
+      6 Penetration testing based on offensive threat models
+      - Create pentest cases for threat mitigation features
+      - Pentest planning to exploit security design flaws
+      - Vulnerabilities as input to plan and scope security testing
+      - Prioritization of pentesting based on risk rating
+      - Hands-on get into the defender's head – modeling points of attack of a nuclear facility.
+      
+      7 Advanced threat modeling
+      - Typical steps and variations
+      - Validation threat models
+      - Effective threat model workshops
+      - Communicating threat models
+      - Agile and DevOps threat modeling
+      - Improving your practice with the Threat Modeling Playbook
+      - Scaling up threat modeling
+      - Threat models examples automotive, industrial control systems, IoT and Cloud
+      
+      8 Threat modeling resources
+      - Open-Source tools
+      - Commercial tools
+      - General tools
+      - Threat modeling tools compared
+      - Battle for control over "Zwarte Wind", an offshore wind turbine park
+      
+      9 Examination
+      - Hands-on examination
+      - Grading and certification
+- Type: Training
+  Trainers:
+    - Name: Nick Nikiforakis
+      Email: nick.nikiforakis@protonmail.com
+      Image: /assets/images/trainers/NickNikiforakis.jpeg
+      Twitter: nicknikiforakis
+      Biography: >-
+          Nick Nikiforakis is an Associate Professor at Stony Brook University working on web security and privacy. He leads the PragSec Lab, where his 
+          students conduct research in cyber security, with a focus on web security, web privacy, DNS security, attack-surface reduction, and deception-based 
+          security. He is the author of more than 70 peer-reviewed academic publications and his work is cited over 4,000 times. He is one of the pioneers in 
+          the space of browser fingerprinting, with more than 10 years of experience in detecting and defending against unwanted fingerprinting. His seminal 
+          work titled 'Cookieless monster - Exploring the ecosystem of web-based device fingerprinting'  was the first study of the adoption of fingerprinting 
+          the wild and has been cited more than 500 times. All his work can be found on his [website](https://securitee.org)
+      TrainerId: trainer006
+  Title: Browser Fingerprinting - Past, Present, and Future (1-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_BFPPF
+  Description: >- 
+     Browser fingerprinting refers to a website's ability to infer the exact makeup of a user's browsing environment and differentiate that user from other users without the use of cookies and other stateful identifiers. Constructively, browser fingerprinting has the potential to protect users and websites by detecting bots, and differentiating between benign users and attackers impersonating these users using stolen credentials. Destructively, browser fingerprinting can be used as an invasive way of tracking users across websites, even when users delete their cookies and use their browser's private mode. In this training, we will review the history of browser fingerprinting and see how it is different from traditional cookie-based user-identification techniques but also more intrusive stateful techniques, such as, evercookies and HSTS-based tracking. We will methodically investigate how browser fingerprinting works and what attributes can go into a browser fingerprint, ranging from JavaScript-based and browser-based properties, to attributes about the user's graphics card and even the TLS stack of their browser. We will understand how browser extensions can be fingerprinted and to what extent off-the-shelf tools that advertise anti-fingerprinting capabilities can really deliver on their promises. Next to learning about all modern browser-fingerprinting techniques, the participants will get an opportunity to actively learn via a number of hands-on activities that involve perusing the DOM of different browsers searching for browser-specific artifacts, understanding the architecture and operation of the most popular open-source fingerprinting library, observing how the TLS stacks of different browsers and web clients can be revealed through fingerprinting, and evaluate popular anti-fingerprinting tools. The participants of this training will be able to walk away with not just a concrete understanding of browser fingerprinting (and how they can avoid its unwanted variant as users on the web) but also with the knowledge to assess whether and how they can constructively use browser fingerprinting in the authentication and intrusion-detection components of their web applications.
+     
+     ### Outline:
+     
+     My intention with this training is to guide web developers and security researchers through the convoluted world of browser fingerprinting, helping them understand what it is, how it has evolved over the last ten years, and how it can be used to protect web applications (but also abused to track users). Below, I split the training in terms of curriculum and in terms of hands-on activities.
+
+     #### Curriculum
+       - What is browser fingerprinting?
+         - High-level definition
+         - Differentiating fingerprinting from other tracking techniques, such as, cookies, evercookies, HSTS-based tracking, etc.
+       <br>
+       - Why is it important?
+         - Allowing services to recognize users in the absence of cookies (private mode does not help)
+         - Benign use cases 
+         - Differentiating bots from regular users
+         - Detect an attacker who is logging in with stolen credentials
+         - Somewhat abusive use cases
+         - Tracking users without their consent across websites
+       <br>
+       - How does browser fingerprinting work?
+         - Fingerprinting the JavaScript engine of a browser
+         - Fingerprinting browser attributes (navigator and screen objects)
+         - Fingerprinting the graphics card (canvas-based fingerprinting)
+         - Fingerprinting the TLS stack
+         - How the TLS handshake betrays the make of a client, regardless of what the client claims to be
+       <br>
+       - Putting it all together
+         - How these attributes are combined into a fingerprint
+         - How can the resulting fingerprints be used?
+         - Are replay attacks an issue in browser fingerprinting? For example, can attackers, in the context of a phishing attack, steal a user's fingerprintable attributes along with their credentials and replay both to the targeted service?
+       <br>
+       - Reviewing countermeasures against fingerprinting
+         - Browser-extension based
+         - Blocking scripts vs. lying about the user's environment
+         - Showing the limitations of browser extensions and how they can in fact worsen the problem
+         - Privacy-first browsers
+       <br>  
+       - The future
+         - Discussing where browsers seem to be going regarding browser fingerprinting
+         - Differentiate between first-party fingerprinting that can be done for security (likely to stay) vs. third-party fingerprinting that works across sites (likely to go)
+      <br>
+       #### Hands-on Activities  
+         - Trainer will provide a VirtualBox VM which will be equipped with local websites, browsers, browser extensions, packet-capturing tools, and packet-analysis tools. The participants in the training can use the VM to do all the hands-on activities.
+         - Introduciton - Open up browser console, list navigator object, list screen object. Understand how the browser's identity is reflected in its native objects
+         - Getting warmer - Visit a website (that the trainer will setup) that fingerprints the user and lists the extracted attributes. Understand everything that's being fingerprinted. Try out the private mode in your browser and see if it changes anything regarding your fingerprint (hint - it doesn't)
+         - Somewhat Technical. Command-line activities and Wireshark activities - Use tcpdump and Wireshark to observe the TLS handshake between your browser and an HTTPS-enabled web server. Repeat the process with another browser and with a command-line tool (e.g. wget or curl). Observe how the handshake (namely the list of ciphersuites supported by the client change with each browser). Understand how, even without JavaScript and before the very first byte of HTTPS content, a web server can know if a client is lying about its identity.
+         - Evaluate countermeasures - Turn on browser extensions that claim to protect against browser fingerprinting. View their effects on our previous fingerprinting page. Understand how dedicated sites can expose the real identity of a browser using forgotten DOM artifacts, partial spoofing of the tell-tale properties by the extension, and JavaScript tricks (like requesting the printing (toString) of a native function, that can uncover whether that function is hijacked by the extension)
+- Type: Training
+  Trainers:
+    - Name: Ruben Ventura
+      Email: the.tr3w@gmail.com
+      Image: /assets/images/trainers/RubenVentura.jpeg
+      Twitter: tr3w_
+      Biography: Ruben Ventura got involved in the fields of hacking and information security over 18 years ago. He has worked performing diverse security information services internationally for governments, law-enforcement agencies , many firms and a financial institution. He has been invited to speak at many international conferences such as Hack in Paris, Hackfest Quebec, BSides Philly, DragonJar Colombia, GreHack among many others. His interests include reverse engineering, music production, theoretical physics, molecular biology, psychology, meditation, lifting weights and coffee.
+      TrainerId: trainer007
+  Title: "Snakes Crawling On The Web: Finding Security Vulnerabilities With Python (1-day training course)"
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_SCOTW
+  Description: >- 
+      This training is focused on finding web app security vulnerabilities automatically through the use of highly effective tools which will be developed in the course of this training.
+      
+      A vast spectrum of topics will be explained, ranging from foundational ones and then moving up to esoteric vulnerabilities that are realtively new which usually remain undetected. The main objective is to write scripts at a very high speed that perform almost every stage of a web security assessment methodology using not well-known tricks which aren't implemented in the tools that are used the most, including types of attacks that are still not wide-spread, certainly not massively known and very dangerous (mentioned further on the outline).
+ 
+      The language that will be used for building this arsenal of tools will be Python, because of the fact that this language helps to write very clear code and it is very easy to comprehend.
+      These utilities are completely original and more capable than the public and commercial ones, with the advantage that they will be easily extendible by yourselves. The few already public tools that are way too powerful won't be reinvented, but definitely covered in the explanations.
+ 
+      If you already know Python, this workshop is perfect for you, because the time taken to explain the language will be practically null because these tools are practically self-explanatory, thus you will be able to use your time in developing utilities that will boost up the speed and flow of your daily work.
+
+ 
+      If you do not know Python, this training is also perfect for you - the language will be quickly, briefly and intuitively explained from a hacker perspective in order to develop scripts that you for sure will be using in your every-day work. The explanations will be the very same tools that will be developed in the training, all of this to have a better flow of how the training will advance. It will be extremely simple to learn it just by reading the code.
+ 
+      If you already have experience in web app security, this workshop might still be worthy of you attention because of the methods not yet widely popularly known detailed further in the outline, and none of them can be found in any book just yet. Original techniques will be explained. Furthermore, most of the time will be used to construct the pieces of your very own framework to accomplish web security assessments.
+ 
+      Do not forget this will be a long session. It is recommended to bring 0xC0FFEE.
+
+      
+      ### Outline:
+       
+       [+] Reconnaissence - Gathering massive INTEL fast and automatically.
+
+       [+] Attacking authentication - evaluate the security of authentication mechanisms automatically with practically no intervention.
+
+       [+] Building your own "web spider" library for multiple uses
+
+       [-] Mass-scanning the entire web looking out for vulnerabilites
+
+       [+] Cross-site Scripting
+
+       [-] Finding and exploiting XSS vulnerabilities.
+
+       [-] XSS testing fase optimization with polyglot payloads
+
+       [-] Heavy javascript obfuscation to bypass practically every single web application firewall in the planet
+       
+       [-] DOM-based XSS
+       
+       [*] Understanding the DOM and DOM-based attacks
+       
+       [*] Tricks for finding DOM-based XSS in packed/encoded/obfuscated noodled-tangled scripts.
+       
+       [-] Serialization errors that lead to XSS
+       
+       [+] Breaking javascript DOM implemenetations using "friendly" sanitized HTML.
+       
+       [+] SQL injections
+       
+       [-] Quickly identifying SQL injection vulnerabilities using polyglot payloads.
+       
+       [-] SQL injection exploitation
+       
+       [-] Exploiting SQL injections in a cutting-edge way
+       
+       [*] New methods for bypassing authentication in which every other tool fails.
+       
+       [*] Data extraction through deductive algorithms that extract only fragments of the information and then infere the values of the rest which works 100% of the time
+       
+       [*] How I wrote the fastest tool in the planet to peform blind SQL injections
+       
+       [-] What to do when the table names and column names tables cannot be read?
+       
+       [-] Writing your own sqlmap tamper scripts which bypass a great variety of firewalls and IDS.
+       
+       [+] XPath injection
+       
+       [-] New original methods to exploit XPath injections
+       
+       [*] Content Security Policy bypass (in certain cases)
+       
+       [*] New XPath injection optimization methods
+       
+       [*] Writing the only tool in the world that extracts arbitrary files through blind XPath injections
+       
+       [+] Relative reference attacks - How to turn completley sanitized input into harmful code execution
+       
+       [+] Exploiting Cross-Site Request Forgery
+       
+       [+] Access control evasion
+       
+       [+] Open Redirection vulnerabilities
+       
+       [+] Path traversal
+       
+       [+] List of many other types of vulnerabilities not covered in this training.
+       
+       [+] Theory of how to integrate all the tools to build your own exploitation framework.
+       
+       [+] The coffe comedown.    
+- Type: Training
+  Trainers:
+    - Name: John DiLeo
+      Email: john.dileo@owasp.org
+      Image: /assets/images/trainers/JohnDiLeo.jpeg
+      Twitter: gr4ybeard
+      Biography: Dr. John DiLeo is the Auckland-area leader of the OWASP New Zealand Chapter. He's currently leading the Software Assurance advisory practice at Datacom New Zealand, providing support and guidance to clients in launching, managing, and maturing their enterprise software assurance programs. Before moving to application security, John was active as a Java enterprise architect and Web application developer. In an earlier life, John developed discrete-event simulations of large distributed systems, in a variety of languages - including the Java-based language (FreeSML) he developed as part of his doctoral research. John is on the core team for the OWASP Software Assurance Maturity Model (SAMM) Project, and is active on the OWASP Education and Training Committee.
+      TrainerId: trainer008
+  Title: "Threat Modeling: From None to Done (1-day training course)"
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_TMFNTD
+  Description: >- 
+      This session offers participants an interactive introduction to Threat Modeling, based on the instructor's learning and experience over the past several years. A primary focus of this course is the introduction of threat modeling activities into your organization's software development processes, to improve the overall quality and security of the applications you build. As a "convert" to the application security world, your instructor has developed his "expertise" in threat modeling by gathering information from a variety of sources. He's combined those learnings with his own experience to create a practical threat modeling approach he has successfully applied within his professional roles. In addition to addressing key questions around the "Five Ws," the presentation will cover the "Seven Questions" approach (an expansion of Shostack's "Four Questions") to developing a model, and include several interactive exercises to provide direct experience. A brief review of available modeling tools will also be included, along with a discussion of the opportunities and challenges for introducing Threat Modeling into your SDLC. 
+
+      ### Outline
+       - Introduction - Overview, and Initial Modeling Exercise
+       - The Five Ws of Threat Modeling
+       - Our Modeling Approach - DiLeo's Seven Questions
+       - Identifying the Scope
+       - Identifying Threats
+       - Risk Management Overview
+       - Identifying Candidate Mitigations
+       - Selecting Mitigations to Implement
+       - Verification and Validation
+       - Getting Started - Incremental Threat Modeling
+       - Tools for Creating Threat Models
+       - SDLC Integration
+       - Review and Closing Thoughts
+- Type: Training
+  Trainers:
+    - Name: Adam Shostack
+      Email: adam@shostack.org
+      Image: /assets/images/trainers/adam-shostack3.jpeg
+      Twitter: adamshostack
+      Biography: >-
+          Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many 
+          other things. He currently helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove 
+          the Autorun fix into Windows Update, was the lead designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, 
+          and the co-author of The New School of Information Security.
+      TrainerID: trainer009
+  Title: "Threat Modeling: A Master Class (1-day training course being held on November 9)"
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187
+  SectionId: sku_TMAMC
+  Description: >-
+      This advanced course in threat modeling is designed to give skilled practitioners a chance to hone and enhance their already existing skills with one of the leading thinkers on the subject.<br> The course 
+      will be a mix of the three Jenga block types: technical, organizational and interpersonal, and include specifics based on student requests. The course will include both exercises, critiques and a seminar portion. 
+      Students will be offered the chance to bring a real, anonymized model for critiques. Students who are familiar with multiple techniques for threat modeling will do best. (For example, DFDs and state machines; STRIDE, 
+      kill chains and attack trees.)
+      
+      ### Outline:
+      
+       - 9am-10am The Jenga model of threat modeling is a way of conceptualizing and differentiating between the many skills we bring to bear in threat modeling, and being able to use it to categorize problems will be a base for the rest of the class. Samples and discussion.
+       - 10am-12pm Critiques of threat models students bring
+       - 12pm-1pm Lunch
+       - 1pm-2pm Technical skill advanced topics, probably including some of threat modeling for conflict (trolling, computational propaganda, offensive content), IPV, comparative kill chain issues
+       - 2pm-3pm Organizational skills - How do you get an entire organization threat modeling effectively? What skills and processes do you bring to bear? The risk management trap, the B-MAD problem and more.
+       - 3pm-4pm Interpersonal skills - threat modeling is more than just the technical work. Including team diversity, active listening, respect.
+       - 4pm-5pm Seminar - The topics that we haven't gotten to that students want to discuss.
+- Type: Training
+  Trainers:
+    - Name: Adam Shostack
+      Email: adam@shostack.org
+      Image: /assets/images/trainers/adam-shostack3.jpeg
+      Twitter: adamshostack
+      Biography: >-
+          Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many other things. He currently 
+          helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove the Autorun fix into Windows Update, was the lead 
+          designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling: Designing for Security, and the co-author of The New School of Information Security.
+      TrainerID: trainer010
+  Title: Introduction to Threat Modeling (1-day training course)
+  URL: https://www.eventbrite.com/e/global-appsec-us-2021-virtual-training-tickets-188589806187   
+  SectionId: sku_ITTM
+  Description: >- 
+      This hands-on introductory course in threat modeling is designed to bring students from no formal threat modeling knowledge to being able to provide structured, systematic, and comprehensive analysis of new or existing technology designs.
+  
+      ### Outline:
+     
+        - This course starts by introducting the Four Question Framework for threat modeling
+          - 1 What are we working on?
+          - 2 What can go wrong?
+          - 3 What are we going to do about it?
+          - 4 Did we do a good job?
+        - The course then teaches students specific skills to provide structure for answering each. The students will be provided a sample system for analysis, craft Data Flow Diagrams to show what's being worked on, use STRIDE to find what can go wrong, discuss simple and complex mitigations to address those problems, and retrospectives to decide if they've done a good enough job.
+        - (Not including breaks in the outline for simplicity)
+        - 9am-10am Threat modeling intro - threat modeling a home, threat modeling a technical system
+        - 10am-11am Getting structured - the 4 question frame, and its informal use
+        - 11am-12pm What are we working on? What's a DFD? What makes one good? Draw one, peer review, discuss. (Each segment follows the explanation, apply, review and discuss cycle for effective education.)
+        - 12pm-1pm Lunch
+        - 1pm-2:30pm STRIDE and its applicationn. What is STRIDE? Find threats with STRIDE.
+        - 2:30pm-3:30pm Mitigations - What are mitigations? What sorts of controls do we need? Why controls are a better frame than risk management or scoring.
+        - 3:30pm-4:30pm Retrospectives and selling threat modeling
+        - 4:30pm-5pm Close

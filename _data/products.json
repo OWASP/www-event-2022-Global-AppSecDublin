@@ -1,0 +1,86 @@
+{
+    "id": "prod_HO7XABHbf8fuaI",
+    "name": "Testing SOS",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_HO7YlsHDbod6JI",
+            "name": "CtF with Discounts",
+            "amount": 2500,
+            "metadata": {
+                "type": "regular",
+                "inventory": "9",
+                "description": "<p>Capture the flage</p>",
+                "discountable": "True",
+                "display_order": "-6"
+            }
+        },
+        {
+            "id": "sku_HO7YWwXGpBp5C7",
+            "name": "CtF no discounting",
+            "amount": 5000,
+            "metadata": {
+                "type": "regular",
+                "inventory": "0",
+                "description": "<p>description</p>",
+                "display_order": "100",
+                "discountable": "False"
+            }
+        },
+        {
+            "id": "sku_HO7Zr1J3QeY8kc",
+            "name": "Seth & Ken's Adventure",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>Lots of stuff</p>",
+                "discountable": "True",
+                "display_order": "0"
+            }
+        },
+        {
+            "id": "sku_HO7ak2qEuukmvO",
+            "name": "$FREE Conference",
+            "amount": 0,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>A free thing</p>",
+                "display_order": "-1",
+                "discountable": "False"
+            }
+        },
+        {
+            "id": "sku_HOpFu116ddfzFY",
+            "name": "Big training No discounts!",
+            "amount": 100000,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>no discounts</p>",
+                "display_order": "-10",
+                "discountable": "False"
+            }
+        },
+        {
+            "id": "sku_HOpZ9pTjkBCrEF",
+            "name": "Late to the game",
+            "amount": 1000,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>des</p>",
+                "discountable": "True",
+                "display_order": "2"
+            }
+        },
+        {
+            "id": "sku_HcK2rVKgGb8w6r",
+            "name": "Testing",
+            "amount": 5000,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>test</p>",
+                "discountable": "True",
+                "display_order": "60"
+            }
+        }
+    ]
+}
