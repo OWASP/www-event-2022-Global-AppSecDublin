@@ -1,95 +1,10 @@
-- logo: /assets/images/sponsors/ApiiroLogo.svg
-  name: Apiiro
-  url: https://apiiro.com/
-  backgroundSize: 125px
-  type: Diamond
-- logo:  /assets/images/sponsors/silogostacked.png
-  name: Secuirty Innovation
-  url: https://www.securityinnovation.com/
-  backgroundSize: 125px
-  type: Platinum
-- logo: /assets/images/sponsors/github_logo.png
-  name: GitHub
-  url: 	https://github.com/enterprise
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/hackedulogo.png
-  name: HackEDU
-  url: https://www.hackedu.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/IriusRiskNEWlogo.png
-  name: IriusRisk
-  url: https://iriusrisk.com
-  backgroundSize: 125px
-  type: Platinum
-- logo: /assets/images/sponsors/fortify_logo_owasp.png
-  name: Fortify
-  url: https://www.microfocus.com/en-us/cyberres/application-security
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/praetorianlogo.png
-  name: Praetorian
-  url: https://praetorian.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/whitesourcelogo.jpg
-  name: WhiteSource 
-  url: https://www.whitesourcesoftware.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/Checkpointlogo.png
-  name: CheckPoint
-  url: https://www.checkpoint.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/resurfacelogostackedblueblack.png
-  name: Resurface Labs
-  url: https://www.resurface.io
-  backgroundSize: 125px
-  type: Gold
-- logo: /assets/images/sponsors/Indusface.png
-  name: Indusface
-  url: https://www.indusface.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/NowSecure.jpg
-  name: NowSecure
-  url: https://www.nowsecure.com
-  backgroundSize: 125px
-  type: Platinum
-- logo: /assets/images/sponsors/Torq logo.png
-  name: Torq
-  url: https://www.torq.io
-  backgroundSize: 125px
-  type: Platinum
-- logo: /assets/images/sponsors/Traceable Logo.png
-  name: Traceable
-  url: https://www.traceable.ai
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/Contrast Security Logo.png
-  name: Contrast Security
-  url: https://www.contrastsecurity.com
-  backgroundSize: 125px
-  type: Supporter
-- logo: /assets/images/sponsors/Salt Security Logo.jpg
-  name: Salt Security
-  url: https://salt.security/
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/noname_logo_dark__owasp (1).jpg
-  name: Noname
-  url: https://www.nonamesecurity.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/cycode-logo.jpg
-  name: Cycode
-  url: https://www.cycode.com
-  backgroundSize: 125px
-  type: Diamond
-- logo: /assets/images/sponsors/ArmorCode Official.png
-  name: Armorcode
-  url: https://www.armorcode.com
-  backgroundSize: 125px
-  type: Gold
+#- logo: /assets/images/sponsors/ApiiroLogo.svg
+  #name: Apiiro
+  #url: https://apiiro.com/
+  #backgroundSize: 125px
+  #type: Diamond
+#- logo:  /assets/images/sponsors/silogostacked.png
+  #name: Secuirty Innovation
+  #url: https://www.securityinnovation.com/
+  #backgroundSize: 125px
+  #type: Platinum
