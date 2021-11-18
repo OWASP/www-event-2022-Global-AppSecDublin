@@ -9,6 +9,7 @@ venue: The Convention Centre Dublin
 #location: Virtual On-line Event
 background: /assets/images/AppSec_Dublin_Banner1200x300.jpeg
 color: 797979
+overlay: none
 analytics: 
 registration_open: false
 pitch: >-
