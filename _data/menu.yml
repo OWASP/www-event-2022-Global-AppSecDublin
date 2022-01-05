@@ -11,9 +11,9 @@
     #- title: Agenda
       #url : /schedule/
    #- title: Call for Papers
-      #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
+       #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
-      url: /assets/images/Virtual_AppSec_2022_Sponsorship.pdf
+  url: /assets/images/Virtual_AppSec_2022_Sponsorship.pdf
 - title: ABOUT
   #url: /about/
   #items:
