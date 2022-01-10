@@ -13,7 +13,7 @@ header-text-color: white
 menu-header-color: darkblue
 overlay: none
 background-width: 100%
-background-height: 600px
+background-height: 720px
 color: 797979
 analytics: 
 registration_open: false
