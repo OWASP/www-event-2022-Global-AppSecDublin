@@ -10,8 +10,10 @@
       #url : /trainings/
     #- title: Agenda
       #url : /schedule/
-   #- title: Call for Papers
-       #url : https://owasp.submittable.com/submit/197322/2021-virtual-global-appsec-cfp
+   - title: Call for Papers
+       url : https://owasp.submittable.com/submit/213362/2022-virtual-global-appsec-eu-cfp
+   - title: Call for Trainers
+       url : https://owasp.submittable.com/submit/213361/2022-virtual-global-appsec-eu-cft
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
   items:
     - title: Sponsorship
