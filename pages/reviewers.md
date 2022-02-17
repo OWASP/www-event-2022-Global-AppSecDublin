@@ -9,7 +9,8 @@ permalink: /reviewers/
 # {{page.title}}
 <br>
 <div class="keynote-full">
-{% for reviewer in site.data.reviewers %}
+{% assign reviewers = site.data.reviewers | sort: 'name' %}
+{% for reviewer in reviewers %}
 <hr>
 		<div>
 		    <a name="{{reviewer.name}}"><img style="background-image: url({{speaker.image | default: 'owasp_logo.png'}});"></a>
