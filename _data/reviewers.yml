@@ -16,7 +16,7 @@
   bio: >-
       Erez Yalon is the VP of Security Research at Checkmarx. Yalon oversees Checkmarx’s research team comprising analysts, pen testers, security engineers, and bug bounty hunters. He brings vast experience to his position and his efforts to empower today’s developers and organizations to deliver more secure applications. Yalon is the Founder of the DEF CON AppSec Village and co-leads the OWASP API Security Project. Over the years, Yalon has been invited to speak at prominent events including RSAC, Black Hat, DEF CON, and OWASP’s global conferences, while also being featured in news outlets such as Fortune, Forbes, Wired, TechCrunch, and Dark Reading.
   social: 
-    - name: "Twitter: @twittername"
-      url: https://www.linkedin.com/in/erezyalon/
-   - name: "LinkedIn: herberdersher"
-      url:
+      - name: "Twitter: @twittername"
+        url: https://www.linkedin.com/in/erezyalon/
+      - name: "LinkedIn: herberdersher"
+        url:
