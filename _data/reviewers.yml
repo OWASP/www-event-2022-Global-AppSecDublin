@@ -1,0 +1,19 @@
+- name: Test Reviewer
+  url: https://owasp.org/
+  company: Test Company
+  image: /assets/images/reviewers/image.png
+  bio: >-
+      Some text to represent a bio.
+  social:
+      - name: "Twitter: @twittername"
+        url: https://twitter.com/owasp
+      - name: "LinkedIn: herberdersher"
+        url: https://linkedin.com/owasp
+      - name: "Parler: braindead"
+        url: https://realstupid.com/
+- name: Test Reviewer Two
+  url: https://owasp.org/
+  company: Test Company Two
+  image: /assets/images/reviewers/image.png
+  bio: >-
+      Some text to represent a bio without social links
