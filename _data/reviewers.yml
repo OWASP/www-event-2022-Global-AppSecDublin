@@ -1,14 +1,14 @@
-- name: Test Reviewer
+- name: Martin Knobloch
   url: https://owasp.org/
   company: Test Company
-  image: /assets/images/reviewers/image.png
+  image: /assets/images/martinknoboch.png
   bio: >-
-      Some text to represent a bio.
-  social:
+      Martin Knobloch, Global AppSec Strategist with CyberRes, a Micro Focus line of business, is a long-time security leader with more than 15 years of experience in the field. With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
+  social: 
       - name: "Twitter: @twittername"
-        url: https://twitter.com/owasp
+        url: https://twitter.com/knoblochmartin
       - name: "LinkedIn: herberdersher"
-        url: https://linkedin.com/owasp
+        url: https://www.linkedin.com/in/martin-knobloch/
 - name: Test Reviewer Two
   url: https://owasp.org/
   company: Test Company Two
