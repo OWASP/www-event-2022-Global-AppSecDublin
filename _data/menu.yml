@@ -20,9 +20,9 @@
       url: /assets/files/Virtual_AppSec_EU_2022_Sponsorship_Opportunities.pdf
 - title: ABOUT
   #url: /about/
-  #items:
-    #- title: Sponsors & Exhibitors
-      #url  : /sponsors/
+  items:
+    - title: CfT/CfP Reviewers
+      url  : /reviewers/
     #- title: Volunteer
       #url: /volunteer/
       #url  : /https://owasp.wufoo.com/forms/kcj5cel1lmygi4//
