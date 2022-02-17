@@ -13,7 +13,7 @@ permalink: /reviewers/
 {% for reviewer in reviewers %}
 <hr>
 		<div>
-		    <a name="{{reviewer.name}}"><img style="background-image: url({{speaker.image | default: 'owasp_logo.png'}});"></a>
+		    <a name="{{reviewer.name}}"><img style="background-image: url({{reviewer.image | default: 'owasp_logo.png'}});"></a>
 		</div>
 		<div class='keynote-info'>
 			<a href='{{reviewer.url}}'><strong>{{reviewer.name}}</strong></a>
