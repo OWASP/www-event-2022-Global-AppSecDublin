@@ -86,16 +86,26 @@
         #url:
       - name: "LinkedIn: jaspreet-ka "
         url: https://www.linkedin.com/in/jaspreet-ka/
+- name: Mordecai Kraushar
+  url: https://www.linkedin.com/in/mkraushar/
+  company: QED National
+  image: /assets/images/reviewers/MordecaiKraushar.jpeg
+  bio: >-
+      https://www.linkedin.com/in/mkraushar/
+    social:
+      - name: "Twitter: demomk "
+        url: https://twitter.com/demomk
+      - name: "LinkedIn: mkraushar "
+        url: https://www.linkedin.com/in/mkraushar/
 - name: 
   url:
   company:
   image: 
   bio: >-
-  
+      
     social:
       - name: "Twitter: "
         url:
       - name: "LinkedIn: "
-        url:
-        
+        url:        
       
