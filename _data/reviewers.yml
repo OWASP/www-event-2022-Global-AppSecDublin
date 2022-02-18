@@ -51,7 +51,7 @@
   social:
       #- name: "Twitter: "
         #url:
-      - name: "LinkedIn: bayegaspard "
+      - name: "LinkedIn: bayegaspard"
         url: https://www.linkedin.com/in/bayegaspard/
 - name: Loredana Mancini
   url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
@@ -60,9 +60,9 @@
   bio: >-
       Mrs. Loredana MANCINI is an expert and practitioner in the IT area. She has been directly involved for the last 25 years in different projects connected with infrastructure and security for important customers, she covered different roles from engineering to marketing, management, consulting, innovation programs definition. Loredana Mancini has held executive management positions in national and international companies. She is an active member of coaching and standardization groups.   She is one of the founders of the Italian Chapter on Cloud Security Alliance, founder of the Italian Metric Association. Furthermore, she is CCSK, CSA STAR, CRISC, COBIT, ITIL, ISO2000, ISO27001, ISO22301 and CGEIT certified. She is Vice Chair of the Committee of Women in Application Security, Diversity & Inclusion in OWASP (OWASP/WIA, Diversity & Inclusion), she is the Italian Chapter leader for the Infosecgirl group, Central Italy Ambassador for Women 4.0 Community, Founding member of the BlockChainLadies Community, member of the SheLeadsTech ISACA community. She belongs to the Women4Cyber organization.  She organized many events at national and international levels, with high level keynote speakers. She was also involved and coordinated European Horizon2020 funded projects, i.e.: “VisiOn”, “Defend”, “Selis”, “Eutravel”, “CharIOT”. Co-author of the book “Visual Privacy Management: Design and Application of a Privacy-Enabling Platform” from Springer, co-author of the Women 4.0 Manifesto. 
   social:
-      - name: "Twitter: @lo_mancini "
+      - name: "Twitter: @lo_mancini"
         url: https://twitter.com/lo_mancini
-      - name: "LinkedIn: loredana-mancini-cybersecurity "
+      - name: "LinkedIn: loredana-mancini-cybersecurity"
         url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
 - name: Wias Issa
   url: https://www.linkedin.com/in/wiasissa/
@@ -73,7 +73,7 @@
   social:
       - name: "Twitter: wiasissa"
         url: https://twitter.com/wiasissa
-      - name: "LinkedIn: wiasissa "
+      - name: "LinkedIn: wiasissa"
         url: https://www.linkedin.com/in/wiasissa/
 - name: Jaspreet Kaur
   url: https://www.linkedin.com/in/jaspreet-ka/
@@ -81,7 +81,7 @@
   image: /assets/images/reviewers/JaspreetKaur.jpeg
   bio: >-
       Myself (Jaspreet Kaur), a security professional as researcher, faculty, blogger as well as consultant. Broadly my working domains are blockchain security, network security, application security, IoT Security but eager to work on the rest of the cyber security area. I have experienced approx 7 years in the cyber security field. I have a various roles as guest lecturer at Sardar Patel University of Police, Security and Criminal Justice, Jodhpur (IN), phd scholar at Indian Institute of technology Jodhpur (IN), Blogger at William and Mary Blockchain Lab, Hackernoon, Medium, Cybrary. I am also a member of various research communities such as N2women, ACM-W and many more. and wrote various articles in conferences and journals in this domain. I also got various academic awards and scholarships. I highly believe in exchanging or sharing ideas. If anyone wants to share your thoughts or need any help in cyber security then feel free to reach me via various online platforms.
-    social:
+  social:
       #- name: "Twitter: "
         #url:
       - name: "LinkedIn: jaspreet-ka"
@@ -92,7 +92,7 @@
   image: /assets/images/reviewers/MordecaiKraushar.jpeg
   bio: >-
       https://www.linkedin.com/in/mkraushar/
-    social:
+  social:
       - name: "Twitter: demomk"
         url: https://twitter.com/demomk
       - name: "LinkedIn: mkraushar"
@@ -103,7 +103,7 @@
   image: 
   bio: >-
       
-    social:
+  social:
       - name: "Twitter: "
         url:
       - name: "LinkedIn: "
