@@ -51,8 +51,19 @@
   social:
       #- name: "Twitter: "
         #url:
-      - name: "LinkedIn bayegaspard "
+      - name: "LinkedIn: bayegaspard "
         url: https://www.linkedin.com/in/bayegaspard/
+- name: Loredana Mancini
+  url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
+  #company:   
+  image: /assets/images/reviewers/LoredanaMancini.jpeg
+  bio: >-
+      Mrs. Loredana MANCINI is an expert and practitioner in the IT area. She has been directly involved for the last 25 years in different projects connected with infrastructure and security for important customers, she covered different roles from engineering to marketing, management, consulting, innovation programs definition. Loredana Mancini has held executive management positions in national and international companies. She is an active member of coaching and standardization groups.   She is one of the founders of the Italian Chapter on Cloud Security Alliance, founder of the Italian Metric Association. Furthermore, she is CCSK, CSA STAR, CRISC, COBIT, ITIL, ISO2000, ISO27001, ISO22301 and CGEIT certified. She is Vice Chair of the Committee of Women in Application Security, Diversity & Inclusion in OWASP (OWASP/WIA, Diversity & Inclusion), she is the Italian Chapter leader for the Infosecgirl group, Central Italy Ambassador for Women 4.0 Community, Founding member of the BlockChainLadies Community, member of the SheLeadsTech ISACA community. She belongs to the Women4Cyber organization.  She organized many events at national and international levels, with high level keynote speakers. She was also involved and coordinated European Horizon2020 funded projects, i.e.: “VisiOn”, “Defend”, “Selis”, “Eutravel”, “CharIOT”. Co-author of the book “Visual Privacy Management: Design and Application of a Privacy-Enabling Platform” from Springer, co-author of the Women 4.0 Manifesto. 
+  social:
+      - name: "Twitter: @lo_mancini "
+        url: https://twitter.com/lo_mancini
+      - name: "LinkedIn: loredana-mancini-cybersecurity "
+        url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
 - name:
   url:
   company:   
@@ -62,16 +73,5 @@
   social:
       - name: "Twitter: "
         url:
-      - name: "LinkedIn "
-        url:
-- name:
-  url:
-  company:   
-  image:
-  bio: >-
-  
-  social:
-      - name: "Twitter: "
-        url:
-      - name: "LinkedIn "
+      - name: "LinkedIn: "
         url:
