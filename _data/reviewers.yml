@@ -84,7 +84,7 @@
     social:
       #- name: "Twitter: "
         #url:
-      - name: "LinkedIn: jaspreet-ka "
+      - name: "LinkedIn: jaspreet-ka"
         url: https://www.linkedin.com/in/jaspreet-ka/
 - name: Mordecai Kraushar
   url: https://www.linkedin.com/in/mkraushar/
@@ -93,9 +93,9 @@
   bio: >-
       https://www.linkedin.com/in/mkraushar/
     social:
-      - name: "Twitter: demomk "
+      - name: "Twitter: demomk"
         url: https://twitter.com/demomk
-      - name: "LinkedIn: mkraushar "
+      - name: "LinkedIn: mkraushar"
         url: https://www.linkedin.com/in/mkraushar/
 - name: 
   url:
