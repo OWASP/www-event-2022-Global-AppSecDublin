@@ -97,15 +97,36 @@
         url: https://twitter.com/demomk
       - name: "LinkedIn: mkraushar"
         url: https://www.linkedin.com/in/mkraushar/
-- name: 
-  url:
-  company:
-  image: 
+- name: Sean Matthiesen
+  url: https://www.linkedin.com/in/seanmatthiesen/
+  company: Bloomberg
+  image: /assets/images/reviewers/SeanMatthiesen.jpeg
   bio: >-
-      
+      Sean Matthiesen is a security architect at Bloomberg, where he is responsible for product security automation. Prior to joining Bloomberg, he worked with multiple companies in various application security consulting roles. Sean started his career as a software developer and became interested in application security in 2007 when penetration testing results landed in his inbox as a team lead at a large payroll and benefits company. After fixing the vulnerabilities, he was asked to join the company's security team, which he ended up transferring to in the following year.
   social:
-      - name: "Twitter: "
-        url:
-      - name: "LinkedIn: "
-        url:        
-      
+      - name: "Twitter: LostSink"
+        url: https://twitter.com/LostSink
+      - name: "LinkedIn: seanmatthiesen"
+        url: https://www.linkedin.com/in/seanmatthiesen/        
+- name: Allison Shubert
+  url: https://www.linkedin.com/in/allison-shubert-msia-cissp-csslp-b47a403/
+  company: Microsoft
+  image: /assets/images/reviewers/AllisonShubert.jpg
+  bio: >-
+      Allison Shubert has over 22 years of experience in information technology.  She has spent over 15 years focusing on application security, security architecture, and risk management.  She holds a master of science degree in information assurance.  She is CISSP and CSSLP certified and serves as a subject matter expert on the exams.  
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: allison-shubert-msia-cissp-csslp-b47a403"
+        url: https://www.linkedin.com/in/allison-shubert-msia-cissp-csslp-b47a403/      
+- name: Dennis Awer Mensah 
+  url: https://www.linkedin.com/in/dennisawermensah/
+  company: United Nations Population Fund (UNFPA)
+  image: /assets/images/reviewers/DennisAwerMensah.jpeg
+  bio: >-
+      A Data Analyst with years of experience in Power BI, Microsoft Excel, Tableau and Python for Data Science with keen interest in data visualizations. Highly interested in Threat-Informed Defense, Cyber Threat Intelligence and General Data Protection Regulations (GDPR) and has 10 years’ experience in public speaking and communication in French and English languages. Dennis has over 2 years’ work experience teaming with international healthcare travel agencies. Vast experiences and being multilingual has made Dennis a strong team member in any organization with the ability to add value when assigned to manage diverse clientele.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: dennisawermensah"
+        url: https://www.linkedin.com/in/dennisawermensah/
