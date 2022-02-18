@@ -31,14 +31,14 @@
         url: https://twitter.com/izar_t
       - name: "LinkedIn: izartarandach"
         url: https://www.linkedin.com/in/izartarandach/
-- name:
-  url:
-  company:
-  image:
-  bio: >-
-  
+- name: Sagar Bhure
+  url: https://www.linkedin.com/in/sagarbhure/
+  company: F5
+  image: /assets/images/reviewers/SagarBhure.jpeg
+  bio: >- 
+      I am an experienced Software Engineer with a demonstrated history of working in the computer software industry after graduation from IIT Kanpur. Skilled in Computer Vision, Computer Graphics, Convolutional Neural Networks, Android HAL, and Computer Networks, Network Security, Cloud Security, Pen Testing. I am a competitive programmer who loves to solve real-life problems using conceptual coding. 
   social:
-      - name: "Twitter: "
-        url: 
-      - name: "LinkedIn: "
-        url: 
+      #- name: "Twitter: "
+        #url: 
+      - name: "LinkedIn: sagarbhure"
+        url: https://www.linkedin.com/in/sagarbhure/
