@@ -42,3 +42,36 @@
         #url: 
       - name: "LinkedIn: sagarbhure"
         url: https://www.linkedin.com/in/sagarbhure/
+- name: Gaspard Baye
+  url: https://www.linkedin.com/in/bayegaspard/
+  #company:
+  image: /assets/images/reviewers/GaspardBaye.jpg
+  bio: >- 
+      I am currently a Ph.D. student and Research Assistant at the University of Massachusetts Cybersecurity lab, A NSA/DHS designated Center of Academic Excellence in Cyber Defense Research(CAER). My research focuses on applying Machine Learning techniques like reinforcement learning or support vector machines to improve security operations by speeding up vulnerability detections and mitigations.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn bayegaspard "
+        url: https://www.linkedin.com/in/bayegaspard/
+- name:
+  url:
+  company:   
+  image:
+  bio: >-
+  
+  social:
+      - name: "Twitter: "
+        url:
+      - name: "LinkedIn "
+        url:
+- name:
+  url:
+  company:   
+  image:
+  bio: >-
+  
+  social:
+      - name: "Twitter: "
+        url:
+      - name: "LinkedIn "
+        url:
