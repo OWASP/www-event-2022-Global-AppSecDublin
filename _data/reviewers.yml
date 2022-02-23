@@ -202,7 +202,7 @@
   image: /assets/images/reviewers/MeghanJacquot.jpeg
   bio: >-
       Meghan Jacquot is a Cyber Threat Intelligence Analyst with Recorded Future and is a curious lifelong learner with a commitment to sharing what she has learned. She is passionate about helping others, speaking at conferences to increase cyber awareness, and is particularly interested in cloud security, threat intelligence, and ethical AI. She is the President of WiCyS Mid-Atlantic Affiliate, the Research Board Advisory Member for BBWIC, and a SANS CFP Reviewer and CTF creator. She’s happy to connect with others on LinkedIn https://www.linkedin.com/in/meghan-jacquot-carpe-diem/ Twitter https://twitter.com/CarpeDiemT3ch and on her YouTube channel CarpeDiemT3ch https://www.youtube.com/c/CarpeDiemT3ch
-    social:
+  social:
       - name: "Twitter: CarpeDiemT3ch"
         url: https://twitter.com/CarpeDiemT3ch
       - name: "LinkedIn: meghan-jacquot-carpe-diem"
