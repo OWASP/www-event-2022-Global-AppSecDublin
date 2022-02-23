@@ -240,25 +240,28 @@
         url: https://twitter.com/GoverShay
       - name: "LinkedIn: shaygover"
         url: https://www.linkedin.com/in/shaygover/ 
-- name:
-  url:
-  company:
-  image:
+- name: John Menerick
+  url: https://www.linkedin.com/in/projectnexus/
+  company: Plastiq
+  image: /assets/images/reviewers/JohnMenerick.png
   bio: >-
-  
+      Award-winning, global proactive information security thought leader whose qualifications include comprehensive knowledge 
+ of enterprise information security, architecture, engineering, cloud-native techniques, influencing without authority operator
+ and over 15 years experience in the development and deployment of security solutions protecting networks, systems, and 
+ information for diverse, hypergrowth companies and organizations.
   social:
-      - name: "Twitter: "
-        url:
-      - name: "LinkedIn: "
-        url:     
-- name:
-  url:
-  company:
-  image:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: in/projectnexus/"
+        url: https://www.linkedin.com/in/projectnexus/     
+- name: Josh Grossman
+  url: https://www.linkedin.com/in/joshcgrossman/
+  company: Bounce Security
+  image: /assets/images/reviewers/JoshGrossman
   bio: >-
-  
+      Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on the OWASP Israel chapter board.
   social:
-      - name: "Twitter: "
-        url:
-      - name: "LinkedIn: "
-        url:              
+      - name: "Twitter: JoshCGrossman"
+        url: https://twitter.com/JoshCGrossman
+      - name: "LinkedIn: joshcgrossman"
+        url: https://www.linkedin.com/in/joshcgrossman/             
