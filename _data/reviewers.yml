@@ -130,3 +130,14 @@
         #url:
       - name: "LinkedIn: dennisawermensah"
         url: https://www.linkedin.com/in/dennisawermensah/
+- name: Milan Singh Thakur
+  url: https://www.linkedin.com/in/milansinghthakur/
+  company:
+  image: /assets/images/reviewers/milan__pic__01.jpeg
+  bio: >-
+      Milan is a community driven Security enthusiast who has been keen to explore and create new ways of learning Cyber Security space.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: milansinghthakur"
+        url: https://www.linkedin.com/in/milansinghthakur/  
