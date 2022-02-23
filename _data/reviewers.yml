@@ -152,6 +152,17 @@
         #url:
       - name: "LinkedIn: abhinav-khanna-a2633b114"
         url: https://www.linkedin.com/in/abhinav-khanna-a2633b114/
+- name: Dr. Abhilasha	Vyas
+  url: https://www.linkedin.com/in/dr-abhilasha-rakesh-vyas-96a15b199/
+  company: CloudThat
+  image: /assets/images/reviewers/Dr.AbhilashaVyas.jpeg
+  bio: >-
+      Dr. Abhilasha Vyas working as Subject Matter Expert CloudThat Technologies. She is member of executive committee, Women in Big Data (WiBD) India and Core  Team member of Women in Tech India. She is Gujarat Chapter Lead of infosecgirls community. She is also working as Head, Cyber Cell, Suraj Sansthan, Jaipur. Her research area is Cyber Security and Detection of DDoS attacks. Dr. Abhilasha is AWS Cloud Solution Architect certified trainer. She has been invited and honored as keynote speaker, session chair, resource person and technical committee member of various conferences. She delivered many CyberSecurity awareness sessions for Police Academies, school education and higher education institutions. She was part of the core team of eSaksham project which is joint initiative of AICTE, CPF and Ministry of Education. She received   National Innovative Educator Award 2020 from International Institute of Organized Research (I2OR). Dr. Abhilasha Vyas recognised by The420.in along with Noida- based NGO Root64 Infosec Research Foundation as CQ100 women as a result of a pan-India online survey to acknowledge the efforts of women who have made a difference in the online world and made the digital world safer. Her more than 20 years of extensive experience from academia and industry helping in the creation and designing of successful training programs with a track record of delivering positive results.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: dr-abhilasha-rakesh-vyas-96a15b199"
+        url: https://www.linkedin.com/in/dr-abhilasha-rakesh-vyas-96a15b199/       
 - name: 
   url: 
   company:
@@ -162,5 +173,15 @@
       - name: "Twitter: "
         url:
       - name: "LinkedIn: "
-        url:        
-        
+        url: 
+- name: 
+  url: 
+  company:
+  image: /assets/images/reviewers/
+  bio: >-
+      
+  social:
+      - name: "Twitter: "
+        url:
+      - name: "LinkedIn: "
+        url:         
