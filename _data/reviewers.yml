@@ -185,14 +185,14 @@
         url: https://twitter.com/MrAyala0
       - name: "LinkedIn: jessy-ayala"
         url:  https://www.linkedin.com/in/jessy-ayala/       
-- name: 
-  url: 
-  company:
-  image: /assets/images/reviewers/
+- name: Mauricio Harley
+  url: https://www.linkedin.com/in/mauricioharley/
+  company: Amazon Web Services (AWS)
+  image: /assets/images/reviewers/MauricioHarley.jpg
   bio: >-
-     
+      Maurício is enrolled in a Masters in Computer Science with Cyber Security, researching ransomware effects in the cloud. He has a Bachelor of Science in Electrical Engineering and a Technologist Degree in Telematics. For years, he was a contributor on the knowledge sharing project called Rau-Tu Linux, hosted by the Unicamp – Universidade de Campinas, Brazil, when he was awarded the 4th more relevant collaborator. He maintains a personal blog (called itHarley), where he publishes articles about Information Security, Data Center / Cloud Computing and Computer Networks. He regularly writes for PenTest Magazine and Hakin9, notably with articles in the domain of offensive security. He is the founder of an OWASP chapter. He has more than 25 years of combined experience in Information Technology, involving projects in areas such as network security and forensic analysis. He holds a number of certifications including: (ISC)2 CISSP, CCIE Routing & Switching, CCIE Service Provider, AWS Certified Solutions Architect Associate, AWS Certified Security Specialty, VMware VCP Data Center Virtualization, VMware Implementation Expert NSX. He has been awarded the VMware vExpert recognition for the fourth consecutive year. He gave talks in various Brazilian, European and Latin American in-person and virtual events, such as RootDay, RootSec, AWS LATAM Security Talks, AWS Security Workshops, EMEA AeroSpace Smart Factory and OWASP LATAM @ Home. He currently works as a senior consultant at AWS (Amazon Web Services) in France, participating in initiatives in the EMEA region (Europe, Middle East and Africa). He has worked on projects on different verticals in the following countries: Angola, Austria, Bahrain, Brazil, Finland, France, Germany, Netherlands, Spain, South Africa and the United Kingdom. His research is split between Cloud Security, Incident Response and Vulnerability Analysis.
   social:
-      - name: "Twitter: "
-        url: 
-      - name: "LinkedIn:"
-        url:
+      - name: "Twitter: mauricioharley"
+        url: https://twitter.com/mauricioharley
+      - name: "LinkedIn: mauricioharley"
+        url: https://www.linkedin.com/in/mauricioharley/
