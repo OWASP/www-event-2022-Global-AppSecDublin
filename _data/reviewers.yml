@@ -141,3 +141,26 @@
         #url:
       - name: "LinkedIn: milansinghthakur"
         url: https://www.linkedin.com/in/milansinghthakur/  
+- name: Abhinav	Khanna
+  url: https://www.linkedin.com/in/abhinav-khanna-a2633b114/
+  company: NotSoSecure
+  image: /assets/images/reviewers/AbhinavKhanna.jpeg
+  bio: >-
+      Having 3 years of experience in Application Security. Currently working as Security Engineer at NotSoSecure.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: abhinav-khanna-a2633b114"
+        url: https://www.linkedin.com/in/abhinav-khanna-a2633b114/
+- name: 
+  url: 
+  company:
+  image: /assets/images/reviewers/
+  bio: >-
+      
+  social:
+      - name: "Twitter: "
+        url:
+      - name: "LinkedIn: "
+        url:        
+        
