@@ -225,7 +225,7 @@
   bio: >-
       Nokia 2021 Ada Lovelace Honoree, Ragashree M C is a Cloud Security Specialist at Nokia responsible for managing the security of one of the world’s largest private cloud’s SaaS, PaaS, DBaaS, and IaaS services. She is also an active contributor to various security communities such as CNCF TAG Security, OWASP, CSA etc. She is currently serving as the Technical Lead and Community Manager at CNCF TAG Security, and also as the Co-Lead of Cloud Native Security Con, a KubeCon + CloudNativeCon Europe 2022
   social:
-    #- name: "Twitter: "
-      #url: 
-    - name: "LinkedIn: ragashree-mc"
-      url: https://www.linkedin.com/in/ragashree-mc/
+      #- name: "Twitter: "
+        #url: 
+      - name: "LinkedIn: ragashree-mc"
+        url: https://www.linkedin.com/in/ragashree-mc/
