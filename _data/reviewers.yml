@@ -177,7 +177,7 @@
 - name: Jessy	Ayala
   url: https://www.linkedin.com/in/jessy-ayala/
   company: Insulet Corporation
-  image: /assets/images/reviewers/https://twitter.com/MrAyala0
+  image: /assets/images/reviewers/JessyAyala.jpg
   bio: >-
       Jessy Ayala is currently an Associate Cybersecurity Engineer at Insulet Corporation and Graduate Student Researcher at New York University. At Insulet, he is a member of the product security team where he ensures the safety of Omnipod products. At NYU, he is a member of the mLab research group where he investigates security and privacy concerns of consumer-facing technologies such as IoT devices.
   social:
@@ -185,3 +185,14 @@
         url: https://twitter.com/MrAyala0
       - name: "LinkedIn: jessy-ayala"
         url:  https://www.linkedin.com/in/jessy-ayala/       
+- name: 
+  url: 
+  company:
+  image: /assets/images/reviewers/
+  bio: >-
+     
+  social:
+      - name: "Twitter: "
+        url: 
+      - name: "LinkedIn:"
+        url:
