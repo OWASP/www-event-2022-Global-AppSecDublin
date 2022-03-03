@@ -20,3 +20,247 @@
         url: https://twitter.com/ErezYalon
       - name: "LinkedIn: erezyalon"
         url: https://www.linkedin.com/in/erezyalon/
+- name: Izar Tarandach
+  url: https://www.linkedin.com/in/izartarandach/
+  company: Squarespace
+  image: /assets/images/reviewers/IzarTarandach.jpeg
+  bio: >-
+      Long-time security practitioner, currently Principal Security Architect at Squarespace, previously a Sr. Security Architect at a leading investing company, Lead Product Security Architect at Autodesk, Product Security Office at DellEMC. In the past, member of the SAFECode Technical Leadership Council and founding member of the IEEE Center for Secure Design. Holds a masters degree in Computer Science/Security from Boston University and has served as an instructor in Digital Forensics at Boston University and in Secure Development at the University of Oregon. Author, Threat Modeling:A Practical Guide For Developer Teams, O'Reilly 2020, and pytm, the Pythonic way of Threat Modeling as code.
+  social:
+      - name: "Twitter: @izar_t"
+        url: https://twitter.com/izar_t
+      - name: "LinkedIn: izartarandach"
+        url: https://www.linkedin.com/in/izartarandach/
+- name: Sagar Bhure
+  url: https://www.linkedin.com/in/sagarbhure/
+  company: F5
+  image: /assets/images/reviewers/SagarBhure.jpeg
+  bio: >- 
+      I am an experienced Software Engineer with a demonstrated history of working in the computer software industry after graduation from IIT Kanpur. Skilled in Computer Vision, Computer Graphics, Convolutional Neural Networks, Android HAL, and Computer Networks, Network Security, Cloud Security, Pen Testing. I am a competitive programmer who loves to solve real-life problems using conceptual coding. 
+  social:
+      #- name: "Twitter: "
+        #url: 
+      - name: "LinkedIn: sagarbhure"
+        url: https://www.linkedin.com/in/sagarbhure/
+- name: Gaspard Baye
+  url: https://www.linkedin.com/in/bayegaspard/
+  #company:
+  image: /assets/images/reviewers/GaspardBaye.jpg
+  bio: >- 
+      I am currently a Ph.D. student and Research Assistant at the University of Massachusetts Cybersecurity lab, A NSA/DHS designated Center of Academic Excellence in Cyber Defense Research(CAER). My research focuses on applying Machine Learning techniques like reinforcement learning or support vector machines to improve security operations by speeding up vulnerability detections and mitigations.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: bayegaspard"
+        url: https://www.linkedin.com/in/bayegaspard/
+- name: Loredana Mancini
+  url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
+  #company:   
+  image: /assets/images/reviewers/LoredanaMancini.jpeg
+  bio: >-
+      Mrs. Loredana MANCINI is an expert and practitioner in the IT area. She has been directly involved for the last 25 years in different projects connected with infrastructure and security for important customers, she covered different roles from engineering to marketing, management, consulting, innovation programs definition. Loredana Mancini has held executive management positions in national and international companies. She is an active member of coaching and standardization groups.   She is one of the founders of the Italian Chapter on Cloud Security Alliance, founder of the Italian Metric Association. Furthermore, she is CCSK, CSA STAR, CRISC, COBIT, ITIL, ISO2000, ISO27001, ISO22301 and CGEIT certified. She is Vice Chair of the Committee of Women in Application Security, Diversity & Inclusion in OWASP (OWASP/WIA, Diversity & Inclusion), she is the Italian Chapter leader for the Infosecgirl group, Central Italy Ambassador for Women 4.0 Community, Founding member of the BlockChainLadies Community, member of the SheLeadsTech ISACA community. She belongs to the Women4Cyber organization.  She organized many events at national and international levels, with high level keynote speakers. She was also involved and coordinated European Horizon2020 funded projects, i.e.: “VisiOn”, “Defend”, “Selis”, “Eutravel”, “CharIOT”. Co-author of the book “Visual Privacy Management: Design and Application of a Privacy-Enabling Platform” from Springer, co-author of the Women 4.0 Manifesto. 
+  social:
+      - name: "Twitter: @lo_mancini"
+        url: https://twitter.com/lo_mancini
+      - name: "LinkedIn: loredana-mancini-cybersecurity"
+        url: https://www.linkedin.com/in/loredana-mancini-cybersecurity/
+- name: Wias Issa
+  url: https://www.linkedin.com/in/wiasissa/
+  company: Ubiq Security, Inc.   
+  image: /assets/images/reviewers/WiasIssa.png
+  bio: >-
+      Wias Issa has twenty years of experience in the cybersecurity industry with a concentration in threat response countermeasures. This provides him with a deep understanding of how the threat landscape has evolved from (mostly) benign attacks to those that directly impact national security and the safety and well-being of people around the world. Wias is hugely passionate about tipping the balance of power in favor of the good guys and ensuring cybersecurity is top of mind for organizations. Wias is currently with Ubiq Security, an API-first encryption-as-code platform that is on a mission to simplify and modernize encryption for developers and security teams across the globe. Prior to Ubiq Security, Wias held senior positions at FireEye, Mandiant, and Symantec, where he led security analysis and response teams defending global Fortune 100 companies.
+  social:
+      - name: "Twitter: wiasissa"
+        url: https://twitter.com/wiasissa
+      - name: "LinkedIn: wiasissa"
+        url: https://www.linkedin.com/in/wiasissa/
+- name: Jaspreet Kaur
+  url: https://www.linkedin.com/in/jaspreet-kaur-07726a123/
+  company: SAP
+  image: /assets/images/reviewers/JaspreetKaur.jpeg
+  bio: >-
+      Myself (Jaspreet Kaur), a security professional as researcher, faculty, blogger as well as consultant. Broadly my working domains are blockchain security, network security, application security, IoT Security but eager to work on the rest of the cyber security area. I have experienced approx 7 years in the cyber security field. I have a various roles as guest lecturer at Sardar Patel University of Police, Security and Criminal Justice, Jodhpur (IN), phd scholar at Indian Institute of technology Jodhpur (IN), Blogger at William and Mary Blockchain Lab, Hackernoon, Medium, Cybrary. I am also a member of various research communities such as N2women, ACM-W and many more. and wrote various articles in conferences and journals in this domain. I also got various academic awards and scholarships. I highly believe in exchanging or sharing ideas. If anyone wants to share your thoughts or need any help in cyber security then feel free to reach me via various online platforms.
+  social:
+      - name: "Twitter: Jaspreet173"
+        url: https://twitter.com/Jaspreet173
+      - name: "LinkedIn: jaspreet-kaur-07726a123"
+        url: https://www.linkedin.com/in/jaspreet-kaur-07726a123/
+- name: Mordecai Kraushar
+  url: https://www.linkedin.com/in/mkraushar/
+  company: QED National
+  image: /assets/images/reviewers/MordecaiKraushar.jpeg
+  bio: >-
+      https://www.linkedin.com/in/mkraushar/
+  social:
+      - name: "Twitter: demomk"
+        url: https://twitter.com/demomk
+      - name: "LinkedIn: mkraushar"
+        url: https://www.linkedin.com/in/mkraushar/
+- name: Sean Matthiesen
+  url: https://www.linkedin.com/in/seanmatthiesen/
+  company: Bloomberg
+  image: /assets/images/reviewers/SeanMatthiesen.jpeg
+  bio: >-
+      Sean Matthiesen is a security architect at Bloomberg, where he is responsible for product security automation. Prior to joining Bloomberg, he worked with multiple companies in various application security consulting roles. Sean started his career as a software developer and became interested in application security in 2007 when penetration testing results landed in his inbox as a team lead at a large payroll and benefits company. After fixing the vulnerabilities, he was asked to join the company's security team, which he ended up transferring to in the following year.
+  social:
+      - name: "Twitter: LostSink"
+        url: https://twitter.com/LostSink
+      - name: "LinkedIn: seanmatthiesen"
+        url: https://www.linkedin.com/in/seanmatthiesen/        
+- name: Allison Shubert
+  url: https://www.linkedin.com/in/allison-shubert-msia-cissp-csslp-b47a403/
+  company: Microsoft
+  image: /assets/images/reviewers/AllisonShubert.jpg
+  bio: >-
+      Allison Shubert has over 22 years of experience in information technology.  She has spent over 15 years focusing on application security, security architecture, and risk management.  She holds a master of science degree in information assurance.  She is CISSP and CSSLP certified and serves as a subject matter expert on the exams.  
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: allison-shubert-msia-cissp-csslp-b47a403"
+        url: https://www.linkedin.com/in/allison-shubert-msia-cissp-csslp-b47a403/      
+- name: Dennis Awer Mensah 
+  url: https://www.linkedin.com/in/dennisawermensah/
+  company: United Nations Population Fund (UNFPA)
+  image: /assets/images/reviewers/DennisAwerMensah.jpeg
+  bio: >-
+      A Data Analyst with years of experience in Power BI, Microsoft Excel, Tableau and Python for Data Science with keen interest in data visualizations. Highly interested in Threat-Informed Defense, Cyber Threat Intelligence and General Data Protection Regulations (GDPR) and has 10 years’ experience in public speaking and communication in French and English languages. Dennis has over 2 years’ work experience teaming with international healthcare travel agencies. Vast experiences and being multilingual has made Dennis a strong team member in any organization with the ability to add value when assigned to manage diverse clientele.
+  social:
+      - name: "Twitter: awer_mensah"
+        url: https://twitter.com/awer_mensah
+      - name: "LinkedIn: dennisawermensah"
+        url: https://www.linkedin.com/in/dennisawermensah/
+- name: Milan Singh Thakur
+  url: https://www.linkedin.com/in/milansinghthakur/
+  company:
+  image: /assets/images/reviewers/milan__pic__01.jpeg
+  bio: >-
+      Milan is a community driven Security enthusiast who has been keen to explore and create new ways of learning Cyber Security space.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: milansinghthakur"
+        url: https://www.linkedin.com/in/milansinghthakur/  
+- name: Abhinav	Khanna
+  url: https://www.linkedin.com/in/abhinav-khanna-a2633b114/
+  company: NotSoSecure
+  image: /assets/images/reviewers/AbhinavKhanna.jpeg
+  bio: >-
+      Having 3 years of experience in Application Security. Currently working as Security Engineer at NotSoSecure.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: abhinav-khanna-a2633b114"
+        url: https://www.linkedin.com/in/abhinav-khanna-a2633b114/
+- name: Dr. Abhilasha Vyas
+  url: https://www.linkedin.com/in/dr-abhilasha-rakesh-vyas-96a15b199/
+  company: CloudThat
+  image: /assets/images/reviewers/Dr.AbhilashaVyas.jpeg
+  bio: >-
+      Dr. Abhilasha Vyas working as Subject Matter Expert CloudThat Technologies. She is member of executive committee, Women in Big Data (WiBD) India and Core  Team member of Women in Tech India. She is Gujarat Chapter Lead of infosecgirls community. She is also working as Head, Cyber Cell, Suraj Sansthan, Jaipur. Her research area is Cyber Security and Detection of DDoS attacks. Dr. Abhilasha is AWS Cloud Solution Architect certified trainer. She has been invited and honored as keynote speaker, session chair, resource person and technical committee member of various conferences. She delivered many CyberSecurity awareness sessions for Police Academies, school education and higher education institutions. She was part of the core team of eSaksham project which is joint initiative of AICTE, CPF and Ministry of Education. She received   National Innovative Educator Award 2020 from International Institute of Organized Research (I2OR). Dr. Abhilasha Vyas recognised by The420.in along with Noida- based NGO Root64 Infosec Research Foundation as CQ100 women as a result of a pan-India online survey to acknowledge the efforts of women who have made a difference in the online world and made the digital world safer. Her more than 20 years of extensive experience from academia and industry helping in the creation and designing of successful training programs with a track record of delivering positive results.
+  social:
+      #- name: "Twitter: "
+        #url:
+      - name: "LinkedIn: dr-abhilasha-rakesh-vyas-96a15b199"
+        url: https://www.linkedin.com/in/dr-abhilasha-rakesh-vyas-96a15b199/       
+- name: Hariprasad KA
+  url: https://www.linkedin.com/in/hariprasad-ka/
+  company:
+  image: /assets/images/reviewers/HariprasadKA.jpeg
+  bio: >-
+      Cyber Security Enthusiast, with expertise in Web application security and Penetration Testing. Overall 7 years of experience in Cyber Security. Currently associated with Loginsoft Pvt Ltd as Security Researcher.
+  social:
+      - name: "Twitter: Hariprasad_ka"
+        url: https://twitter.com/Hariprasad_ka
+      - name: "LinkedIn: hariprasad-ka"
+        url: https://www.linkedin.com/in/hariprasad-ka/
+- name: Jessy	Ayala
+  url: https://www.linkedin.com/in/jessy-ayala/
+  company: Insulet Corporation
+  image: /assets/images/reviewers/JessyAyala.jpg
+  bio: >-
+      Jessy Ayala is currently an Associate Cybersecurity Engineer at Insulet Corporation and Graduate Student Researcher at New York University. At Insulet, he is a member of the product security team where he ensures the safety of Omnipod products. At NYU, he is a member of the mLab research group where he investigates security and privacy concerns of consumer-facing technologies such as IoT devices.
+  social:
+      - name: "Twitter: MrAyala0"
+        url: https://twitter.com/MrAyala0
+      - name: "LinkedIn: jessy-ayala"
+        url:  https://www.linkedin.com/in/jessy-ayala/       
+- name: Mauricio Harley
+  url: https://www.linkedin.com/in/mauricioharley/
+  company: Amazon Web Services (AWS)
+  image: /assets/images/reviewers/MauricioHarley.jpg
+  bio: >-
+      Maurício is enrolled in a Masters in Computer Science with Cyber Security, researching ransomware effects in the cloud. He has a Bachelor of Science in Electrical Engineering and a Technologist Degree in Telematics. For years, he was a contributor on the knowledge sharing project called Rau-Tu Linux, hosted by the Unicamp – Universidade de Campinas, Brazil, when he was awarded the 4th more relevant collaborator. He maintains a personal blog (called itHarley), where he publishes articles about Information Security, Data Center / Cloud Computing and Computer Networks. He regularly writes for PenTest Magazine and Hakin9, notably with articles in the domain of offensive security. He is the founder of an OWASP chapter. He has more than 25 years of combined experience in Information Technology, involving projects in areas such as network security and forensic analysis. He holds a number of certifications including: (ISC)2 CISSP, CCIE Routing & Switching, CCIE Service Provider, AWS Certified Solutions Architect Associate, AWS Certified Security Specialty, VMware VCP Data Center Virtualization, VMware Implementation Expert NSX. He has been awarded the VMware vExpert recognition for the fourth consecutive year. He gave talks in various Brazilian, European and Latin American in-person and virtual events, such as RootDay, RootSec, AWS LATAM Security Talks, AWS Security Workshops, EMEA AeroSpace Smart Factory and OWASP LATAM @ Home. He currently works as a senior consultant at AWS (Amazon Web Services) in France, participating in initiatives in the EMEA region (Europe, Middle East and Africa). He has worked on projects on different verticals in the following countries: Angola, Austria, Bahrain, Brazil, Finland, France, Germany, Netherlands, Spain, South Africa and the United Kingdom. His research is split between Cloud Security, Incident Response and Vulnerability Analysis.
+  social:
+      - name: "Twitter: mauricioharley"
+        url: https://twitter.com/mauricioharley
+      - name: "LinkedIn: mauricioharley"
+        url: https://www.linkedin.com/in/mauricioharley/
+- name: Meghan Jacquot
+  url: https://www.linkedin.com/in/meghan-jacquot-carpe-diem/
+  company: Recorded Future
+  image: /assets/images/reviewers/MeghanJacquot.jpeg
+  bio: >-
+      Meghan Jacquot is a Cyber Threat Intelligence Analyst with Recorded Future and is a curious lifelong learner with a commitment to sharing what she has learned. She is passionate about helping others, speaking at conferences to increase cyber awareness, and is particularly interested in cloud security, threat intelligence, and ethical AI. She is the President of WiCyS Mid-Atlantic Affiliate, the Research Board Advisory Member for BBWIC, and a CFP Reviewer for OWASP and SANS and a SANS CTF creator. She’s happy to connect with others on LinkedIn, Twitter, and on her YouTube channel CarpeDiemT3ch https://www.youtube.com/c/CarpeDiemT3ch.
+  social:
+      - name: "Twitter: CarpeDiemT3ch"
+        url: https://twitter.com/CarpeDiemT3ch
+      - name: "LinkedIn: meghan-jacquot-carpe-diem"
+        url: https://www.linkedin.com/in/meghan-jacquot-carpe-diem/
+- name: Nabeela	Bukhari
+  url: https://www.linkedin.com/in/nabeelabukhari25/
+  company: IBM
+  image: /assets/images/reviewers/NabeelaBukhari.png
+  bio: >-
+      A Security Consultant by profession with close to 4 years of experience in Application and Mobile Security.
+  social:
+    #- name: "Twitter: "
+      #url:
+    - name: "LinkedIn: nabeelabukhari25"
+      url: https://www.linkedin.com/in/nabeelabukhari25/
+- name: Ragashree	M C
+  url: https://www.linkedin.com/in/ragashree-mc/
+  company: Nokia
+  image: /assets/images/reviewers/RagashreeMC.jpg
+  bio: >-
+      Nokia 2021 Ada Lovelace Honoree, Ragashree M C is a Cloud Security Specialist at Nokia responsible for managing the security of one of the world’s largest private cloud’s SaaS, PaaS, DBaaS, and IaaS services. She is also an active contributor to various security communities such as CNCF TAG Security, OWASP, CSA etc. She is currently serving as the Technical Lead and Community Manager at CNCF TAG Security, and also as the Co-Lead of Cloud Native Security Con, a KubeCon + CloudNativeCon Europe 2022
+  social:
+      #- name: "Twitter: "
+        #url: 
+      - name: "LinkedIn: ragashree-mc"
+        url: https://www.linkedin.com/in/ragashree-mc/
+- name: Shay Gover
+  url: https://www.linkedin.com/in/shaygover/
+  company: ORT Israel, Technology & Science Educational Network
+  image: /assets/images/reviewers/ShayGover.jpg
+  bio: >-
+      Shay is an Innovation manager. Specializing in promoting innovation in IT infra (DevOps, System), AppSec and software development teams. Inspires people to do better and implement new software, preferably Open Source. Also an Open Source advocate.
+  social:
+      - name: "Twitter: GoverShay"
+        url: https://twitter.com/GoverShay
+      - name: "LinkedIn: shaygover"
+        url: https://www.linkedin.com/in/shaygover/ 
+- name: John Menerick
+  url: https://www.linkedin.com/in/projectnexus/
+  company: Plastiq
+  image: /assets/images/reviewers/JohnMenerick.png
+  bio: >-
+      Award-winning, global proactive information security thought leader whose qualifications include comprehensive knowledge  of enterprise information security, architecture, engineering, cloud-native techniques, influencing without authority operator and over 15 years experience in the development and deployment of security solutions protecting networks, systems, and information for diverse, hypergrowth companies and organizations.
+  social:
+      - name: "LinkedIn: in/projectnexus/"
+        url: https://www.linkedin.com/in/projectnexus/     
+- name: Josh Grossman
+  url: https://www.linkedin.com/in/joshcgrossman/
+  company: Bounce Security
+  image: /assets/images/reviewers/JoshGrossman.jpeg
+  bio: >-
+      Josh has worked as a consultant in IT/Application Security and Risk for 15 years now as well as a Software Developer. In that time he has 
+      seen the good, the bad and the stuff which is sadly/luckily still covered by an NDA. He is currently Chief Technology Officer for Bounce 
+      Security where he spends his time helping organisations improve and get better value from their Application Security processes and providing 
+      specialist Application Security advice. In his spare time he co-leads the OWASP Application Security Verification Standard project and is on 
+      the OWASP Israel chapter board.
+  social:
+      - name: "Twitter: JoshCGrossman"
+        url: https://twitter.com/JoshCGrossman
+      - name: "LinkedIn: joshcgrossman"
+        url: https://www.linkedin.com/in/joshcgrossman/             
