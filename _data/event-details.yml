@@ -8,12 +8,15 @@ logo_url: https://owasp.org/
 venue: Virtual On-Line Event
 location: Virtual On-line Event
 background: VIRTUAL_AppSec_2022_Banner_1920x720.jpg
+background-style: 'linear-gradient(to right, #432261 50%, #37c5f6 50%)'
+background-padding: 0em 2em 0em 2em
 #banner-style: fixed
+bigheader: true
 header-text-color: white
 menu-header-color: darkblue
 overlay: none
-#background-width: 100%
-#background-height: 720px
+background-width: 1920px
+background-height: 720px
 color: 797979
 analytics: 
 registration_open: false
@@ -30,4 +33,4 @@ pitch: >-
    Call for Moderators - coming soon!
     <br><br>
  
-image_attribution: 
+image_attribution: Hugo Costa

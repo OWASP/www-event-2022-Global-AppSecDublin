@@ -1,7 +1,7 @@
 ---
 
 title: Global AppSec Dublin 2022
-layout: event
+layout: event-x
 
 ---
 
