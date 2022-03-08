@@ -1,7 +1,7 @@
 - title: Conference
   price: Early Bird $400/$620
   #info: 
-  #items: 
+  items: 
     - title: Early Bird OWASP Member $400
       price: $400
       #info:
