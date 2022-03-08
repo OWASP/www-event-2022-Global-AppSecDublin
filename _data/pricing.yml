@@ -1,10 +1,12 @@
 - title: Conference
-  price: Early Bird OWASP Member $400 
-  Early Bird Non-Member $620
+  #price: Early Bird OWASP Member $400 Early Bird Non-Member $620
   #info: 
   #items: 
-    #- title: Conference and Membership
-      #price: $245
+    - title: Early Bird OWASP Member $400
+      price: $400
+      #info:
+    - title: Early Bird Non-OWASP Member $620
+      price: $620
       #info:
 - title: Training
   price: Coming soon
