@@ -6,13 +6,13 @@
       #url : /schedule/
     #- title: Keynotes
       #url : /
-    #- title: Training
-      #url : /trainings/
+    - title: Training
+      url : https://www.eventbrite.com/e/304792020137
     #- title: Agenda
       #url : /schedule/
-    - title: Call for Papers - Closed
+    #- title: Call for Papers - Closed
       u#rl : https://owasp.submittable.com/submit/213362/2022-virtual-global-appsec-eu-cfp
-    - title: Call for Trainers - Closed
+    #- title: Call for Trainers - Closed
       #url : https://owasp.submittable.com/submit/213361/2022-virtual-global-appsec-eu-cft
     - title: Call for Moderators - NOW OPEN!
       url: https://owasp.wufoo.com/forms/k1shrkdu1t6vhjq/
