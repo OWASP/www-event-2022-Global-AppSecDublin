@@ -16,14 +16,14 @@
       #url : https://owasp.submittable.com/submit/213361/2022-virtual-global-appsec-eu-cft
     - title: Call for Moderators
       url: https://owasp.wufoo.com/forms/k1shrkdu1t6vhjq/
-- title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
+- title: EXHIBIT OPPORTUNITIES
   items:
-    - title: Sponsorship
+    - title: Exhibit
       url: /assets/files/Virtual_AppSec_EU_2022_Sponsorship_Opportunities.pdf
 - title: ABOUT
   #url: /about/
   items:
-    - title: CfT/CfP Reviewers
+    - title: Review Team
       url  : /reviewers/
     #- title: Volunteer
       #url: /volunteer/
