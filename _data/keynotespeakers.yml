@@ -1,13 +1,7 @@
-#- image: AdamShostack.jpeg
-  #name: Adam Shostack
-  #title: President, Shostack & Associates
-  #bio: "<p>Adam is a leading expert on threat modeling, and a consultant, entrepreneur, technologist, author and game designer. He's a member of the BlackHat Review Board, and helped create the CVE and many other things. He currently helps many organizations improve their security via Shostack & Associates, and helps startups become great businesses as an advisor and mentor. While at Microsoft, he drove the Autorun fix into Windows Update, was the lead designer of the SDL Threat Modeling Tool v3 and created the 'Elevation of Privilege' game. Adam is the author of Threat Modeling - Designing for Security, and the co-author of The New School of Information Security.</p>"
-  #subject: "25 Years in AppSec - Looking Back, Looking Forward"
-  #abstract: "25 years ago, Adam was working at a bank doing source code security reviews, and got permission to release their internal security guidelines. 15 years ago he joined the Microsoft SDL team ... hear some highlights and some lowlights from the journey, and more importantly, what can we expect over the next 25 years? Where is appsec going? What new frontiers will we get to secure? What problems will still be with us?"
-#- image: ChloeMessdaghi.jpg
-  #name: Chloé Messdaghi
-  #title: Co-Founder, Stand Out in Tech
-  #bio: "<p>Chloé Messdaghi is an award-winning changemaker who is innovating tech and information security sectors to meet today and future demands by providing solutions that empower organizations, products, and people to stand out from the crowd. She is an international keynote speaker at major information security and tech conferences and events, and serves as a trusted source to reporters and editors, such as Forbes and Business Insider. Additionally, she is one of the Business Insider’s 50 Power Players. Outside of her work, she is the co-founder of Hacking is NOT a Crime and We Open Tech.</p>"
-  #subject: We Deserve Rights 
-  #abstract: "Hackers have been mislabeled and treated as criminals due to socially constructed beliefs that have been pushed out by the public. In return, we face prosecution when doing our job and trying to keep the world safe from attackers. Current legislation has destroyed many lives of hackers who did not exploit and stayed within scope. In return, 1 out of 4 hackers don't submit vulnerabilities due to the ongoing fear of prosecution. This talk dives into the socially constructed beliefs that the world has towards hackers and how increasing public awareness is needed to change their mindset to update out-of-date legislation."
+- image: ShiraShamban.jpeg
+  name: Shira Shamban
+  #title: 
+  bio: "<p>Shira Shamban is a technical expert with a focus on cloud security. Currently, she is the co-founder and CEO of Solvo, the first application-aware cloud security solution. Shira started her professional career in cybersecurity as a military officer in the elite intelligence unit 8200. Shira strongly believes in empowering women and under-represented communities in the world of technology. She volunteers as a lecturer and a mentor in forums such as SheCodes, Cyber Ladies and Women in AppSec. Shira started the local mentoring program Security Diva and is the co-chair of OWASP Israel.</p>"
+  #subject: 
+  #abstract:
   #style: background-repeat:no-repeat;
