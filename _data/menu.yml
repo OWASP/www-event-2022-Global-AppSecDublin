@@ -2,8 +2,8 @@
   url: /
 - title: PROGRAM
   items:
-    - title: Schedule - Coming Soon
-      #url : /schedule/
+    - title: Schedule
+      url : /schedule/
     #- title: Keynotes
       #url : /
     - title: Training - Registration is Open
