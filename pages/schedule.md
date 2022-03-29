@@ -6,6 +6,22 @@ permalink: /schedule/
 
 ---
 
-<div><div title="Whova event and conference app" id="whova-agendawidget"><p id="whova-loading">Loading...</p></div><script src="https://whova.com/static/frontend/agenda_webpage/js/embedagenda.js?eid=owasp1_202111&host=https://whova.com"
- type="text/javascript" id="embeded-agenda-script"></script><div id="whova-wrap"> Powered By <a class="brandlink" target="_blank" href="https://whova.com"><b>Whova</b></a><div id="whova-mgm"><a href="https://whova.com/whova-event-app/"
- id="whova-emslink" target="_blank"> Best Conference and Event App </a></div></div><img style="display:none" src="https://whova.com/xems/apis/get_whova_tracking_image/?event_id=owasp1_202111&track_id=agenda_webpage_added" /></div>
+
+<div>
+    <div title="Whova event and conference app" id="whova-agendawidget">
+        <p id="whova-loading">Loading...</p>
+    </div>
+    <script src="https://whova.com/static/frontend/xems/js/embed/embedagenda.js?eid=0C2Lr%2F3KbpWHLmV1DQB%2BUNGAEacJeCgOsPala7v6bGo%3D&host=https://whova.com" type="text/javascript"  id="embeded-agenda-script">
+    </script>
+    <div id="whova-wrap">
+        Powered By 
+        <a class="brandlink" target="_blank" href="https://whova.com/blog/event-registration-software-price-comparison/">
+            <b>Whova</b>
+        </a>
+        <br/>
+        <a id="whova-emslink" class="brandanchorlink" target="_blank" href="https://whova.com/blog/event-registration-software-price-comparison/">
+            Event registration
+        </a>
+    </div>
+</div>
+        
