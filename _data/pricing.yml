@@ -2,11 +2,11 @@
   price:
   #info: 
   items: 
-    - title: Early Bird OWASP Member 
-      price: $325
+    - title: OWASP Member 
+      price: $450
       #info:
-    - title: Early Bird Non-OWASP Member
-      price: $275
+    - title: Non-OWASP Member
+      price: $500
       #info:
 - title: Training
   price: starting at $455
